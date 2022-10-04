@@ -1,4 +1,4 @@
-Sean Kim (seanjkim1@gmail.com)
+## Projects
 
 #### StreetEasy Regression Project
 - Used Python(Scikit-Learn) to build a multiple linear regression model to predict rent prices
@@ -8,3 +8,5 @@ Sean Kim (seanjkim1@gmail.com)
 - Used Python(Pandas) to clean and analyze data set
 - Used Python(Matplotlib) to create visualizations
 - Used Tableau to create an interactive dashboard
+
+Sean Kim (seanjkim1@gmail.com)
