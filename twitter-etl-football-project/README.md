@@ -1,6 +1,6 @@
 # Twitter ETL Football Project
 
-![emissions](images/2022-world-cup.jpg)
+![football-stadium](images/2022-world-cup.jpg)
 
 - **The Jupyter notebook can be opened [here](analysis.ipynb)**
 
