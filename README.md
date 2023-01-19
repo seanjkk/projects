@@ -1,10 +1,13 @@
 ## Projects
 
-#### [StreetEasy Regression Project](https://github.com/seanjkk/projects/tree/main/streeteasy-regression-project)
 
-- Used Python(Scikit-Learn) to build a multiple linear regression model to predict rent prices
-- Used Python(Pandas, Numpy) to clean data set
-- Used Matplotlib to create visualizations
+#### [Twitter ETL Football Project](https://github.com/seanjkk/projects/tree/main/twitter-etl-football-project)
+- Pulled data from the Twitter API using Tweepy
+- Cleaned the data
+- Created visualizations using Plotly
+
+#### [SQL Client Project](https://github.com/seanjkk/projects/tree/main/sql-client-project)
+- SQL code using mock data
 
 #### [CO2 Emissions Project](https://github.com/seanjkk/projects/tree/main/co2-emissions-project)
 
