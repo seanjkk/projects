@@ -1,0 +1,541 @@
+"company_id","company_name","msa","year_month","avg_salary"
+2,"Meta","San Francisco CA","2018-01",110000.0
+1,"Apple","New York NY","2018-02",85000.0
+1,"Apple","San Francisco CA","2018-02",80000.0
+1,"Apple","Seattle WA","2018-02",83333.33
+2,"Meta","New York NY","2018-02",50000.0
+2,"Meta","San Francisco CA","2018-02",82500.0
+2,"Meta","Seattle WA","2018-02",72000.0
+4,"Amazon","Seattle WA","2018-02",103333.33
+4,"Amazon","New York NY","2018-02",180000.0
+1,"Apple","San Francisco CA","2018-03",102857.14
+1,"Apple","Seattle WA","2018-03",83333.33
+1,"Apple","New York NY","2018-03",98333.33
+2,"Meta","San Francisco CA","2018-03",109000.0
+2,"Meta","Seattle WA","2018-03",68571.43
+2,"Meta","New York NY","2018-03",93333.33
+4,"Amazon","Seattle WA","2018-03",103333.33
+4,"Amazon","New York NY","2018-03",120000.0
+4,"Amazon","San Francisco CA","2018-03",86666.67
+1,"Apple","New York NY","2018-04",94285.71
+1,"Apple","Seattle WA","2018-04",84285.71
+1,"Apple","San Francisco CA","2018-04",97000.0
+2,"Meta","New York NY","2018-04",85000.0
+2,"Meta","Seattle WA","2018-04",70000.0
+2,"Meta","San Francisco CA","2018-04",120833.33
+4,"Amazon","San Francisco CA","2018-04",98000.0
+4,"Amazon","New York NY","2018-04",136000.0
+4,"Amazon","Seattle WA","2018-04",81666.67
+1,"Apple","Seattle WA","2018-05",80000.0
+1,"Apple","New York NY","2018-05",91250.0
+1,"Apple","San Francisco CA","2018-05",106923.08
+2,"Meta","New York NY","2018-05",91000.0
+2,"Meta","Seattle WA","2018-05",79000.0
+2,"Meta","San Francisco CA","2018-05",115333.33
+4,"Amazon","Seattle WA","2018-05",89000.0
+4,"Amazon","San Francisco CA","2018-05",94444.44
+4,"Amazon","New York NY","2018-05",136000.0
+1,"Apple","Seattle WA","2018-06",79230.77
+1,"Apple","San Francisco CA","2018-06",103333.33
+1,"Apple","New York NY","2018-06",96363.64
+2,"Meta","Seattle WA","2018-06",83571.43
+2,"Meta","New York NY","2018-06",95000.0
+2,"Meta","San Francisco CA","2018-06",108421.05
+4,"Amazon","New York NY","2018-06",148571.43
+4,"Amazon","San Francisco CA","2018-06",97000.0
+4,"Amazon","Seattle WA","2018-06",88181.82
+1,"Apple","San Francisco CA","2018-07",99411.76
+1,"Apple","Seattle WA","2018-07",79333.33
+1,"Apple","New York NY","2018-07",94166.67
+2,"Meta","San Francisco CA","2018-07",105714.29
+2,"Meta","Seattle WA","2018-07",87368.42
+2,"Meta","New York NY","2018-07",88571.43
+4,"Amazon","New York NY","2018-07",134000.0
+4,"Amazon","San Francisco CA","2018-07",92142.86
+4,"Amazon","Seattle WA","2018-07",92142.86
+1,"Apple","New York NY","2018-08",90714.29
+1,"Apple","San Francisco CA","2018-08",95454.55
+1,"Apple","Seattle WA","2018-08",79333.33
+2,"Meta","Seattle WA","2018-08",86190.48
+2,"Meta","San Francisco CA","2018-08",109565.22
+2,"Meta","New York NY","2018-08",92500.0
+4,"Amazon","San Francisco CA","2018-08",94117.65
+4,"Amazon","Seattle WA","2018-08",90666.67
+4,"Amazon","New York NY","2018-08",127692.31
+1,"Apple","San Francisco CA","2018-09",92142.86
+1,"Apple","New York NY","2018-09",97894.74
+1,"Apple","Seattle WA","2018-09",78750.0
+2,"Meta","San Francisco CA","2018-09",107600.0
+2,"Meta","New York NY","2018-09",87000.0
+2,"Meta","Seattle WA","2018-09",85000.0
+4,"Amazon","Seattle WA","2018-09",88125.0
+4,"Amazon","San Francisco CA","2018-09",97272.73
+4,"Amazon","New York NY","2018-09",122142.86
+1,"Apple","New York NY","2018-10",95714.29
+1,"Apple","Seattle WA","2018-10",78888.89
+1,"Apple","San Francisco CA","2018-10",90937.5
+2,"Meta","New York NY","2018-10",90909.09
+2,"Meta","San Francisco CA","2018-10",106666.67
+2,"Meta","Seattle WA","2018-10",85000.0
+4,"Amazon","New York NY","2018-10",115625.0
+4,"Amazon","San Francisco CA","2018-10",100400.0
+4,"Amazon","Seattle WA","2018-10",94000.0
+1,"Apple","New York NY","2018-11",92000.0
+1,"Apple","San Francisco CA","2018-11",90937.5
+1,"Apple","Seattle WA","2018-11",75909.09
+2,"Meta","New York NY","2018-11",90909.09
+2,"Meta","San Francisco CA","2018-11",106666.67
+2,"Meta","Seattle WA","2018-11",82692.31
+4,"Amazon","New York NY","2018-11",106842.11
+4,"Amazon","Seattle WA","2018-11",91818.18
+4,"Amazon","San Francisco CA","2018-11",99615.38
+1,"Apple","San Francisco CA","2018-12",90571.43
+1,"Apple","New York NY","2018-12",92692.31
+1,"Apple","Seattle WA","2018-12",74782.61
+2,"Meta","San Francisco CA","2018-12",102580.65
+2,"Meta","New York NY","2018-12",89130.43
+2,"Meta","Seattle WA","2018-12",81428.57
+4,"Amazon","San Francisco CA","2018-12",98148.15
+4,"Amazon","New York NY","2018-12",105000.0
+4,"Amazon","Seattle WA","2018-12",92000.0
+1,"Apple","Seattle WA","2019-01",74256.0
+1,"Apple","New York NY","2019-01",94546.15
+1,"Apple","San Francisco CA","2019-01",94153.85
+2,"Meta","New York NY","2019-01",93910.34
+2,"Meta","Seattle WA","2019-01",79436.36
+2,"Meta","San Francisco CA","2019-01",105400.0
+4,"Amazon","Seattle WA","2019-01",96711.11
+4,"Amazon","San Francisco CA","2019-01",98834.48
+4,"Amazon","New York NY","2019-01",108954.55
+1,"Apple","San Francisco CA","2019-02",97024.39
+1,"Apple","New York NY","2019-02",93257.14
+1,"Apple","Seattle WA","2019-02",74314.29
+2,"Meta","San Francisco CA","2019-02",102275.68
+2,"Meta","New York NY","2019-02",98493.75
+2,"Meta","Seattle WA","2019-02",78600.0
+4,"Amazon","New York NY","2019-02",101622.22
+4,"Amazon","Seattle WA","2019-02",99814.29
+4,"Amazon","San Francisco CA","2019-02",98290.91
+1,"Apple","Seattle WA","2019-03",77379.31
+1,"Apple","New York NY","2019-03",92503.45
+1,"Apple","San Francisco CA","2019-03",101051.16
+2,"Meta","San Francisco CA","2019-03",102237.21
+2,"Meta","New York NY","2019-03",94422.86
+2,"Meta","Seattle WA","2019-03",81600.0
+4,"Amazon","Seattle WA","2019-03",99814.29
+4,"Amazon","San Francisco CA","2019-03",96486.49
+4,"Amazon","New York NY","2019-03",107275.86
+1,"Apple","New York NY","2019-04",92109.09
+1,"Apple","Seattle WA","2019-04",76345.45
+1,"Apple","San Francisco CA","2019-04",100263.83
+2,"Meta","San Francisco CA","2019-04",101778.26
+2,"Meta","New York NY","2019-04",92061.54
+2,"Meta","Seattle WA","2019-04",83918.18
+4,"Amazon","Seattle WA","2019-04",97393.55
+4,"Amazon","San Francisco CA","2019-04",95625.0
+4,"Amazon","New York NY","2019-04",104303.23
+1,"Apple","New York NY","2019-05",95400.0
+1,"Apple","Seattle WA","2019-05",76200.0
+1,"Apple","San Francisco CA","2019-05",100776.0
+2,"Meta","San Francisco CA","2019-05",103873.47
+2,"Meta","Seattle WA","2019-05",83866.67
+2,"Meta","New York NY","2019-05",92285.71
+4,"Amazon","New York NY","2019-05",102637.5
+4,"Amazon","San Francisco CA","2019-05",94471.43
+4,"Amazon","Seattle WA","2019-05",98600.0
+1,"Apple","Seattle WA","2019-06",76062.86
+1,"Apple","New York NY","2019-06",97037.84
+1,"Apple","San Francisco CA","2019-06",101200.0
+2,"Meta","San Francisco CA","2019-06",105000.0
+2,"Meta","Seattle WA","2019-06",83595.65
+2,"Meta","New York NY","2019-06",94904.35
+4,"Amazon","New York NY","2019-06",97750.0
+4,"Amazon","Seattle WA","2019-06",95200.0
+4,"Amazon","San Francisco CA","2019-06",96786.67
+1,"Apple","Seattle WA","2019-07",75259.46
+1,"Apple","New York NY","2019-07",97815.38
+1,"Apple","San Francisco CA","2019-07",100542.86
+2,"Meta","New York NY","2019-07",92004.0
+2,"Meta","San Francisco CA","2019-07",104157.69
+2,"Meta","Seattle WA","2019-07",83553.19
+4,"Amazon","San Francisco CA","2019-07",96786.67
+4,"Amazon","Seattle WA","2019-07",93107.69
+4,"Amazon","New York NY","2019-07",96094.74
+1,"Apple","New York NY","2019-08",96900.0
+1,"Apple","Seattle WA","2019-08",75629.27
+1,"Apple","San Francisco CA","2019-08",100542.86
+2,"Meta","San Francisco CA","2019-08",104501.89
+2,"Meta","New York NY","2019-08",90426.92
+2,"Meta","Seattle WA","2019-08",83265.31
+4,"Amazon","San Francisco CA","2019-08",97962.5
+4,"Amazon","Seattle WA","2019-08",94904.35
+4,"Amazon","New York NY","2019-08",95200.0
+1,"Apple","New York NY","2019-09",96900.0
+1,"Apple","Seattle WA","2019-09",76014.29
+1,"Apple","San Francisco CA","2019-09",100542.86
+2,"Meta","San Francisco CA","2019-09",106080.0
+2,"Meta","Seattle WA","2019-09",85272.0
+2,"Meta","New York NY","2019-09",91800.0
+4,"Amazon","New York NY","2019-09",91800.0
+4,"Amazon","Seattle WA","2019-09",93287.5
+4,"Amazon","San Francisco CA","2019-09",98273.08
+1,"Apple","San Francisco CA","2019-10",100640.0
+1,"Apple","New York NY","2019-10",95880.0
+1,"Apple","Seattle WA","2019-10",75906.98
+2,"Meta","San Francisco CA","2019-10",106080.0
+2,"Meta","New York NY","2019-10",91448.28
+2,"Meta","Seattle WA","2019-10",84600.0
+4,"Amazon","San Francisco CA","2019-10",98033.33
+4,"Amazon","Seattle WA","2019-10",92424.49
+4,"Amazon","New York NY","2019-10",91336.36
+1,"Apple","San Francisco CA","2019-11",100025.81
+1,"Apple","New York NY","2019-11",93925.0
+1,"Apple","Seattle WA","2019-11",77853.06
+2,"Meta","New York NY","2019-11",91108.47
+2,"Meta","Seattle WA","2019-11",87505.26
+2,"Meta","San Francisco CA","2019-11",106189.29
+4,"Amazon","Seattle WA","2019-11",91596.0
+4,"Amazon","San Francisco CA","2019-11",97734.55
+4,"Amazon","New York NY","2019-11",91375.0
+1,"Apple","Seattle WA","2019-12",77316.0
+1,"Apple","New York NY","2019-12",93465.31
+1,"Apple","San Francisco CA","2019-12",99175.38
+2,"Meta","New York NY","2019-12",89960.66
+2,"Meta","Seattle WA","2019-12",88230.0
+2,"Meta","San Francisco CA","2019-12",104467.74
+4,"Amazon","San Francisco CA","2019-12",97168.42
+4,"Amazon","Seattle WA","2019-12",91596.0
+4,"Amazon","New York NY","2019-12",90780.0
+1,"Apple","Seattle WA","2020-01",79430.54
+1,"Apple","San Francisco CA","2020-01",100934.33
+1,"Apple","New York NY","2020-01",97589.52
+2,"Meta","Seattle WA","2020-01",89273.03
+2,"Meta","San Francisco CA","2020-01",107823.27
+2,"Meta","New York NY","2020-01",91875.32
+4,"Amazon","San Francisco CA","2020-01",99705.0
+4,"Amazon","Seattle WA","2020-01",92035.38
+4,"Amazon","New York NY","2020-01",92412.0
+1,"Apple","New York NY","2020-02",97104.0
+1,"Apple","San Francisco CA","2020-02",100368.0
+1,"Apple","Seattle WA","2020-02",79259.56
+2,"Meta","San Francisco CA","2020-02",107823.27
+2,"Meta","New York NY","2020-02",91151.46
+2,"Meta","Seattle WA","2020-02",88271.44
+4,"Amazon","New York NY","2020-02",91476.68
+4,"Amazon","Seattle WA","2020-02",90898.11
+4,"Amazon","San Francisco CA","2020-02",100626.19
+1,"Apple","Seattle WA","2020-03",80676.63
+1,"Apple","San Francisco CA","2020-03",100027.03
+1,"Apple","New York NY","2020-03",102715.85
+2,"Meta","New York NY","2020-03",90217.54
+2,"Meta","San Francisco CA","2020-03",107145.67
+2,"Meta","Seattle WA","2020-03",88271.44
+4,"Amazon","Seattle WA","2020-03",89647.8
+4,"Amazon","San Francisco CA","2020-03",101400.18
+4,"Amazon","New York NY","2020-03",92879.35
+1,"Apple","New York NY","2020-04",100990.55
+1,"Apple","Seattle WA","2020-04",80332.52
+1,"Apple","San Francisco CA","2020-04",99790.48
+2,"Meta","New York NY","2020-04",88981.58
+2,"Meta","San Francisco CA","2020-04",107253.0
+2,"Meta","Seattle WA","2020-04",87961.09
+4,"Amazon","Seattle WA","2020-04",88921.69
+4,"Amazon","New York NY","2020-04",93277.24
+4,"Amazon","San Francisco CA","2020-04",101325.91
+1,"Apple","Seattle WA","2020-05",80094.29
+1,"Apple","San Francisco CA","2020-05",99271.5
+1,"Apple","New York NY","2020-05",100918.8
+2,"Meta","New York NY","2020-05",89767.85
+2,"Meta","Seattle WA","2020-05",87822.0
+2,"Meta","San Francisco CA","2020-05",106904.87
+4,"Amazon","Seattle WA","2020-05",88921.69
+4,"Amazon","San Francisco CA","2020-05",100103.35
+4,"Amazon","New York NY","2020-05",92930.64
+1,"Apple","New York NY","2020-06",100458.3
+1,"Apple","San Francisco CA","2020-06",99621.86
+1,"Apple","Seattle WA","2020-06",79606.36
+2,"Meta","New York NY","2020-06",89767.85
+2,"Meta","San Francisco CA","2020-06",106496.5
+2,"Meta","Seattle WA","2020-06",86266.5
+4,"Amazon","Seattle WA","2020-06",88353.97
+4,"Amazon","San Francisco CA","2020-06",101202.55
+4,"Amazon","New York NY","2020-06",92612.66
+1,"Apple","Seattle WA","2020-07",80705.31
+1,"Apple","San Francisco CA","2020-07",99400.38
+1,"Apple","New York NY","2020-07",99000.56
+2,"Meta","San Francisco CA","2020-07",105586.54
+2,"Meta","Seattle WA","2020-07",85797.37
+2,"Meta","New York NY","2020-07",88755.11
+4,"Amazon","Seattle WA","2020-07",87516.0
+4,"Amazon","New York NY","2020-07",92612.66
+4,"Amazon","San Francisco CA","2020-07",101439.0
+1,"Apple","San Francisco CA","2020-08",101010.99
+1,"Apple","Seattle WA","2020-08",80053.0
+1,"Apple","New York NY","2020-08",98365.09
+2,"Meta","New York NY","2020-08",87345.21
+2,"Meta","Seattle WA","2020-08",87065.05
+2,"Meta","San Francisco CA","2020-08",106675.68
+4,"Amazon","San Francisco CA","2020-08",103435.12
+4,"Amazon","New York NY","2020-08",91957.94
+4,"Amazon","Seattle WA","2020-08",86145.12
+1,"Apple","New York NY","2020-09",99416.0
+1,"Apple","Seattle WA","2020-09",80053.0
+1,"Apple","San Francisco CA","2020-09",100957.33
+2,"Meta","Seattle WA","2020-09",88167.23
+2,"Meta","New York NY","2020-09",87251.73
+2,"Meta","San Francisco CA","2020-09",105526.29
+4,"Amazon","San Francisco CA","2020-09",103202.9
+4,"Amazon","New York NY","2020-09",91235.08
+4,"Amazon","Seattle WA","2020-09",88173.9
+1,"Apple","San Francisco CA","2020-10",104279.17
+1,"Apple","Seattle WA","2020-10",80904.79
+1,"Apple","New York NY","2020-10",98075.04
+2,"Meta","San Francisco CA","2020-10",105526.29
+2,"Meta","Seattle WA","2020-10",87523.65
+2,"Meta","New York NY","2020-10",86855.87
+4,"Amazon","San Francisco CA","2020-10",103330.64
+4,"Amazon","New York NY","2020-10",90423.0
+4,"Amazon","Seattle WA","2020-10",87117.83
+1,"Apple","Seattle WA","2020-11",80500.95
+1,"Apple","San Francisco CA","2020-11",105222.27
+1,"Apple","New York NY","2020-11",99371.54
+2,"Meta","Seattle WA","2020-11",86784.59
+2,"Meta","New York NY","2020-11",86318.9
+2,"Meta","San Francisco CA","2020-11",105526.29
+4,"Amazon","Seattle WA","2020-11",87071.57
+4,"Amazon","New York NY","2020-11",90402.32
+4,"Amazon","San Francisco CA","2020-11",103361.48
+1,"Apple","New York NY","2020-12",98076.73
+1,"Apple","Seattle WA","2020-12",80567.56
+1,"Apple","San Francisco CA","2020-12",106236.4
+2,"Meta","San Francisco CA","2020-12",105526.29
+2,"Meta","Seattle WA","2020-12",86784.59
+2,"Meta","New York NY","2020-12",86318.9
+4,"Amazon","San Francisco CA","2020-12",103818.64
+4,"Amazon","Seattle WA","2020-12",86256.42
+4,"Amazon","New York NY","2020-12",89802.95
+1,"Apple","New York NY","2021-01",100038.27
+1,"Apple","San Francisco CA","2021-01",108543.12
+1,"Apple","Seattle WA","2021-01",83001.63
+2,"Meta","San Francisco CA","2021-01",107061.11
+2,"Meta","New York NY","2021-01",88045.28
+2,"Meta","Seattle WA","2021-01",87268.75
+4,"Amazon","New York NY","2021-01",93762.43
+4,"Amazon","Seattle WA","2021-01",87580.15
+4,"Amazon","San Francisco CA","2021-01",105568.09
+1,"Apple","New York NY","2021-02",100038.27
+1,"Apple","Seattle WA","2021-02",83001.63
+1,"Apple","San Francisco CA","2021-02",108543.12
+2,"Meta","New York NY","2021-02",88045.28
+2,"Meta","Seattle WA","2021-02",87268.75
+2,"Meta","San Francisco CA","2021-02",107061.11
+4,"Amazon","Seattle WA","2021-02",87580.15
+4,"Amazon","San Francisco CA","2021-02",105568.09
+4,"Amazon","New York NY","2021-02",93762.43
+1,"Apple","New York NY","2021-03",100038.27
+1,"Apple","San Francisco CA","2021-03",108543.12
+1,"Apple","Seattle WA","2021-03",83001.63
+2,"Meta","San Francisco CA","2021-03",107061.11
+2,"Meta","Seattle WA","2021-03",87268.75
+2,"Meta","New York NY","2021-03",88045.28
+4,"Amazon","San Francisco CA","2021-03",105568.09
+4,"Amazon","New York NY","2021-03",93762.43
+4,"Amazon","Seattle WA","2021-03",87580.15
+1,"Apple","Seattle WA","2021-04",83001.63
+1,"Apple","San Francisco CA","2021-04",108543.12
+1,"Apple","New York NY","2021-04",100038.27
+2,"Meta","Seattle WA","2021-04",87268.75
+2,"Meta","New York NY","2021-04",88045.28
+2,"Meta","San Francisco CA","2021-04",107061.11
+4,"Amazon","Seattle WA","2021-04",87580.15
+4,"Amazon","New York NY","2021-04",93762.43
+4,"Amazon","San Francisco CA","2021-04",105568.09
+1,"Apple","San Francisco CA","2021-05",108543.12
+1,"Apple","New York NY","2021-05",100038.27
+1,"Apple","Seattle WA","2021-05",83001.63
+2,"Meta","Seattle WA","2021-05",87268.75
+2,"Meta","San Francisco CA","2021-05",107061.11
+2,"Meta","New York NY","2021-05",88045.28
+4,"Amazon","New York NY","2021-05",93762.43
+4,"Amazon","San Francisco CA","2021-05",105568.09
+4,"Amazon","Seattle WA","2021-05",87580.15
+1,"Apple","New York NY","2021-06",100038.27
+1,"Apple","Seattle WA","2021-06",83214.24
+1,"Apple","San Francisco CA","2021-06",108543.12
+2,"Meta","New York NY","2021-06",88434.0
+2,"Meta","San Francisco CA","2021-06",107061.11
+2,"Meta","Seattle WA","2021-06",87268.75
+4,"Amazon","San Francisco CA","2021-06",105568.09
+4,"Amazon","Seattle WA","2021-06",87611.36
+4,"Amazon","New York NY","2021-06",93762.43
+1,"Apple","New York NY","2021-07",101572.77
+1,"Apple","Seattle WA","2021-07",83172.18
+1,"Apple","San Francisco CA","2021-07",109292.23
+2,"Meta","Seattle WA","2021-07",86579.04
+2,"Meta","New York NY","2021-07",88104.94
+2,"Meta","San Francisco CA","2021-07",105707.34
+4,"Amazon","San Francisco CA","2021-07",105785.68
+4,"Amazon","New York NY","2021-07",94810.56
+4,"Amazon","Seattle WA","2021-07",88261.45
+1,"Apple","New York NY","2021-08",102965.86
+1,"Apple","Seattle WA","2021-08",84069.72
+1,"Apple","San Francisco CA","2021-08",108191.45
+2,"Meta","Seattle WA","2021-08",87180.25
+2,"Meta","New York NY","2021-08",86599.81
+2,"Meta","San Francisco CA","2021-08",105248.57
+4,"Amazon","Seattle WA","2021-08",88261.45
+4,"Amazon","San Francisco CA","2021-08",105010.23
+4,"Amazon","New York NY","2021-08",95944.83
+1,"Apple","New York NY","2021-09",103280.95
+1,"Apple","San Francisco CA","2021-09",107712.61
+1,"Apple","Seattle WA","2021-09",84753.23
+2,"Meta","New York NY","2021-09",88716.99
+2,"Meta","Seattle WA","2021-09",88292.51
+2,"Meta","San Francisco CA","2021-09",106120.8
+4,"Amazon","San Francisco CA","2021-09",103661.9
+4,"Amazon","Seattle WA","2021-09",89031.22
+4,"Amazon","New York NY","2021-09",96245.67
+1,"Apple","Seattle WA","2021-10",85833.0
+1,"Apple","New York NY","2021-10",100122.67
+1,"Apple","San Francisco CA","2021-10",106937.11
+2,"Meta","Seattle WA","2021-10",87138.63
+2,"Meta","San Francisco CA","2021-10",105316.85
+2,"Meta","New York NY","2021-10",88912.02
+4,"Amazon","Seattle WA","2021-10",89707.45
+4,"Amazon","New York NY","2021-10",97508.1
+4,"Amazon","San Francisco CA","2021-10",102090.9
+1,"Apple","San Francisco CA","2021-11",107594.7
+1,"Apple","New York NY","2021-11",100418.79
+1,"Apple","Seattle WA","2021-11",84896.64
+2,"Meta","Seattle WA","2021-11",88856.37
+2,"Meta","New York NY","2021-11",89907.9
+2,"Meta","San Francisco CA","2021-11",104751.5
+4,"Amazon","San Francisco CA","2021-11",102631.9
+4,"Amazon","Seattle WA","2021-11",89318.34
+4,"Amazon","New York NY","2021-11",95347.93
+1,"Apple","Seattle WA","2021-12",85070.61
+1,"Apple","San Francisco CA","2021-12",108773.82
+1,"Apple","New York NY","2021-12",98937.24
+2,"Meta","San Francisco CA","2021-12",104751.5
+2,"Meta","Seattle WA","2021-12",89468.0
+2,"Meta","New York NY","2021-12",89965.1
+4,"Amazon","Seattle WA","2021-12",90051.08
+4,"Amazon","New York NY","2021-12",96350.95
+4,"Amazon","San Francisco CA","2021-12",102583.44
+1,"Apple","San Francisco CA","2022-01",111074.19
+1,"Apple","New York NY","2022-01",99370.82
+1,"Apple","Seattle WA","2022-01",86594.57
+2,"Meta","Seattle WA","2022-01",92355.91
+2,"Meta","San Francisco CA","2022-01",106890.18
+2,"Meta","New York NY","2022-01",90484.56
+4,"Amazon","New York NY","2022-01",98725.28
+4,"Amazon","San Francisco CA","2022-01",104143.09
+4,"Amazon","Seattle WA","2022-01",93588.75
+1,"Apple","Seattle WA","2022-02",85137.45
+1,"Apple","San Francisco CA","2022-02",112194.95
+1,"Apple","New York NY","2022-02",100170.84
+2,"Meta","New York NY","2022-02",90959.22
+2,"Meta","Seattle WA","2022-02",92393.32
+2,"Meta","San Francisco CA","2022-02",106813.59
+4,"Amazon","Seattle WA","2022-02",95795.25
+4,"Amazon","New York NY","2022-02",97612.19
+4,"Amazon","San Francisco CA","2022-02",103746.96
+1,"Apple","New York NY","2022-03",101406.8
+1,"Apple","Seattle WA","2022-03",85467.04
+1,"Apple","San Francisco CA","2022-03",114889.73
+2,"Meta","New York NY","2022-03",90959.22
+2,"Meta","San Francisco CA","2022-03",107810.24
+2,"Meta","Seattle WA","2022-03",91087.69
+4,"Amazon","New York NY","2022-03",96617.09
+4,"Amazon","San Francisco CA","2022-03",103097.23
+4,"Amazon","Seattle WA","2022-03",96617.09
+1,"Apple","Seattle WA","2022-04",84626.51
+1,"Apple","New York NY","2022-04",100749.45
+1,"Apple","San Francisco CA","2022-04",113163.36
+2,"Meta","New York NY","2022-04",93126.49
+2,"Meta","San Francisco CA","2022-04",107792.2
+2,"Meta","Seattle WA","2022-04",92712.67
+4,"Amazon","Seattle WA","2022-04",98043.37
+4,"Amazon","San Francisco CA","2022-04",104023.57
+4,"Amazon","New York NY","2022-04",95545.45
+1,"Apple","New York NY","2022-05",100290.65
+1,"Apple","Seattle WA","2022-05",85084.2
+1,"Apple","San Francisco CA","2022-05",115112.5
+2,"Meta","San Francisco CA","2022-05",108007.9
+2,"Meta","Seattle WA","2022-05",95405.07
+2,"Meta","New York NY","2022-05",95376.57
+4,"Amazon","San Francisco CA","2022-05",102831.06
+4,"Amazon","New York NY","2022-05",94988.94
+4,"Amazon","Seattle WA","2022-05",99150.79
+1,"Apple","Seattle WA","2022-06",85538.54
+1,"Apple","New York NY","2022-06",100253.84
+1,"Apple","San Francisco CA","2022-06",114737.81
+2,"Meta","Seattle WA","2022-06",92576.43
+2,"Meta","New York NY","2022-06",94023.03
+2,"Meta","San Francisco CA","2022-06",108483.76
+4,"Amazon","Seattle WA","2022-06",99952.25
+4,"Amazon","New York NY","2022-06",95450.84
+4,"Amazon","San Francisco CA","2022-06",104708.74
+1,"Apple","Seattle WA","2022-07",85484.39
+1,"Apple","New York NY","2022-07",102392.23
+1,"Apple","San Francisco CA","2022-07",109965.27
+2,"Meta","New York NY","2022-07",90653.69
+2,"Meta","San Francisco CA","2022-07",108981.24
+2,"Meta","Seattle WA","2022-07",86912.94
+4,"Amazon","New York NY","2022-07",94514.81
+4,"Amazon","San Francisco CA","2022-07",104478.23
+4,"Amazon","Seattle WA","2022-07",97418.89
+1,"Apple","New York NY","2022-08",102676.42
+1,"Apple","San Francisco CA","2022-08",112515.97
+1,"Apple","Seattle WA","2022-08",86594.57
+2,"Meta","San Francisco CA","2022-08",109120.86
+2,"Meta","New York NY","2022-08",92242.04
+2,"Meta","Seattle WA","2022-08",88340.43
+4,"Amazon","San Francisco CA","2022-08",104995.92
+4,"Amazon","Seattle WA","2022-08",93810.79
+4,"Amazon","New York NY","2022-08",96833.8
+1,"Apple","San Francisco CA","2022-09",112835.35
+1,"Apple","New York NY","2022-09",103017.68
+1,"Apple","Seattle WA","2022-09",88234.62
+2,"Meta","Seattle WA","2022-09",89580.59
+2,"Meta","New York NY","2022-09",88970.64
+2,"Meta","San Francisco CA","2022-09",110790.12
+4,"Amazon","Seattle WA","2022-09",93698.03
+4,"Amazon","New York NY","2022-09",96833.8
+4,"Amazon","San Francisco CA","2022-09",105837.81
+1,"Apple","New York NY","2022-10",100713.25
+1,"Apple","San Francisco CA","2022-10",113655.38
+1,"Apple","Seattle WA","2022-10",89841.87
+2,"Meta","New York NY","2022-10",91405.38
+2,"Meta","San Francisco CA","2022-10",113829.96
+2,"Meta","Seattle WA","2022-10",93359.77
+4,"Amazon","Seattle WA","2022-10",86967.83
+4,"Amazon","San Francisco CA","2022-10",102109.43
+4,"Amazon","New York NY","2022-10",95778.85
+1,"Apple","San Francisco CA","2022-11",114904.34
+1,"Apple","Seattle WA","2022-11",90202.68
+1,"Apple","New York NY","2022-11",98501.33
+2,"Meta","San Francisco CA","2022-11",117768.62
+2,"Meta","New York NY","2022-11",86932.83
+2,"Meta","Seattle WA","2022-11",98449.78
+4,"Amazon","Seattle WA","2022-11",84429.71
+4,"Amazon","New York NY","2022-11",97069.72
+4,"Amazon","San Francisco CA","2022-11",102630.6
+1,"Apple","Seattle WA","2022-12",89925.13
+1,"Apple","New York NY","2022-12",99448.45
+1,"Apple","San Francisco CA","2022-12",114304.84
+2,"Meta","Seattle WA","2022-12",106213.66
+2,"Meta","New York NY","2022-12",84590.07
+2,"Meta","San Francisco CA","2022-12",122675.64
+4,"Amazon","Seattle WA","2022-12",89443.08
+4,"Amazon","San Francisco CA","2022-12",106439.16
+4,"Amazon","New York NY","2022-12",94806.13
+1,"Apple","Seattle WA","2023-01",NULL
+1,"Apple","New York NY","2023-01",NULL
+1,"Apple","San Francisco CA","2023-01",NULL
+2,"Meta","New York NY","2023-01",NULL
+2,"Meta","Seattle WA","2023-01",NULL
+2,"Meta","San Francisco CA","2023-01",NULL
+4,"Amazon","San Francisco CA","2023-01",NULL
+4,"Amazon","New York NY","2023-01",NULL
+4,"Amazon","Seattle WA","2023-01",NULL

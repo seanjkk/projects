@@ -1,0 +1,1001 @@
+user_id,position_id,company_id,title,mapped_role,msa,startdate,enddate
+1,1,3,Desktop Support Technician,Cashier,Seattle WA,2019-05-12 06:15:30,
+2,2,2,Business Systems Development Analyst,Lawyer,San Francisco CA,2018-02-16 16:52:42,
+3,3,3,Marketing Manager,Lawyer,San Francisco CA,2019-01-02 00:23:45,2022-03-15 23:57:29
+4,4,4,VP Marketing,Lawyer,San Francisco CA,2020-02-11 21:18:29,2021-09-08 19:46:29
+5,5,3,Social Worker,Truck Driver,Seattle WA,2018-04-06 20:29:13,2021-06-02 05:17:33
+6,6,4,Quality Control Specialist,Lawyer,Seattle WA,2020-08-16 14:34:26,2022-08-02 01:27:00
+7,7,3,Systems Administrator III,Software Engineer,San Francisco CA,2018-07-06 10:38:38,2022-03-31 08:50:40
+8,8,1,Media Manager I,Data Scientist,Seattle WA,2018-10-26 18:29:20,2022-02-28 21:22:24
+9,9,3,Statistician III,Cashier,Seattle WA,2020-05-23 20:02:30,2022-02-09 03:12:48
+10,10,3,Product Engineer,Truck Driver,Seattle WA,2018-04-16 02:23:59,2022-02-18 22:23:16
+11,11,1,Community Outreach Specialist,Software Engineer,San Francisco CA,2020-06-04 21:47:29,2021-09-05 08:37:45
+12,12,1,Systems Administrator I,Lawyer,San Francisco CA,2018-04-21 04:09:22,
+13,13,1,Information Systems Manager,Truck Driver,San Francisco CA,2018-01-09 16:19:51,2021-07-06 04:17:39
+14,14,2,Human Resources Assistant I,Cashier,San Francisco CA,2018-11-15 14:05:24,2021-08-16 04:31:38
+15,15,4,VP Sales,Lawyer,New York NY,2018-05-09 20:00:22,
+16,16,1,Physical Therapy Assistant,Lawyer,San Francisco CA,2019-01-21 03:21:59,
+17,17,2,Registered Nurse,Consultant,Seattle WA,2018-02-13 01:40:35,2022-06-05 13:48:03
+18,18,2,Data Coordiator,Data Scientist,New York NY,2018-12-16 04:19:47,2021-11-27 23:21:43
+19,19,2,Occupational Therapist,Truck Driver,San Francisco CA,2018-11-15 11:03:16,2022-10-22 02:33:40
+20,20,4,Web Designer IV,Software Engineer,San Francisco CA,2018-04-23 21:42:59,2021-07-27 03:34:59
+21,21,2,Geologist II,Software Engineer,San Francisco CA,2020-05-24 13:08:57,2022-11-29 04:23:02
+22,22,2,Business Systems Development Analyst,Lawyer,Seattle WA,2019-02-09 15:57:36,
+23,23,4,Financial Advisor,Lawyer,San Francisco CA,2019-08-28 23:29:08,
+24,24,4,Financial Advisor,Lawyer,San Francisco CA,2019-07-24 09:26:42,2022-01-04 19:54:46
+25,25,1,Associate Professor,Lawyer,Seattle WA,2019-10-06 11:22:57,2022-12-14 06:11:27
+26,26,1,Legal Assistant,Lawyer,San Francisco CA,2020-10-08 00:43:55,2021-07-15 02:19:14
+27,27,3,Community Outreach Specialist,Salesperson,Seattle WA,2018-08-09 13:52:50,2022-09-15 00:11:46
+28,28,3,Software Consultant,Software Engineer,New York NY,2019-06-29 05:57:09,2021-07-28 17:52:52
+29,29,1,Physical Therapy Assistant,Cashier,Seattle WA,2020-10-31 06:48:21,
+30,30,2,Safety Technician III,Data Scientist,Seattle WA,2020-08-02 01:43:35,2022-02-21 07:09:59
+31,31,1,Executive Secretary,Salesperson,New York NY,2019-09-29 03:27:55,2022-08-27 21:35:39
+32,32,4,General Manager,Salesperson,San Francisco CA,2020-04-18 21:04:07,2022-07-30 09:51:55
+33,33,3,Civil Engineer,Consultant,San Francisco CA,2019-08-17 00:48:51,2022-05-10 07:55:40
+34,34,3,Marketing Assistant,Cashier,Seattle WA,2018-06-25 07:44:24,2022-05-07 22:55:52
+35,35,1,Administrative Assistant II,Data Scientist,San Francisco CA,2020-08-23 04:47:14,2021-12-28 20:41:53
+36,36,1,Executive Secretary,Truck Driver,New York NY,2018-04-28 10:46:39,2022-08-13 07:20:39
+37,37,3,Environmental Tech,Consultant,New York NY,2020-04-23 04:15:17,2022-10-28 16:46:28
+38,38,2,Chemical Engineer,Data Scientist,San Francisco CA,2019-12-01 01:23:20,2021-09-23 08:01:39
+39,39,1,Operator,Software Engineer,New York NY,2018-02-13 18:52:10,2022-09-19 16:00:26
+40,40,4,Professor,Software Engineer,New York NY,2020-08-06 08:56:57,
+41,41,4,Community Outreach Specialist,Truck Driver,Seattle WA,2018-08-19 05:29:17,
+42,42,4,Statistician I,Data Scientist,Seattle WA,2019-07-10 08:42:49,
+43,43,2,General Manager,Truck Driver,San Francisco CA,2018-09-16 14:44:32,2022-12-04 03:06:57
+44,44,2,Nurse Practicioner,Salesperson,San Francisco CA,2019-11-30 03:05:58,
+45,45,4,Chief Design Engineer,Salesperson,New York NY,2019-06-28 22:55:45,2022-06-11 00:22:35
+46,46,2,Analyst Programmer,Truck Driver,Seattle WA,2020-01-03 10:00:09,2022-08-23 22:54:25
+47,47,1,Environmental Tech,Salesperson,Seattle WA,2018-10-10 11:28:03,
+48,48,1,Financial Advisor,Lawyer,San Francisco CA,2019-04-09 20:03:36,
+49,49,3,Media Manager II,Software Engineer,San Francisco CA,2019-06-14 06:07:27,
+50,50,4,Chief Design Engineer,Salesperson,New York NY,2018-09-05 19:17:46,
+51,51,2,Product Engineer,Data Scientist,Seattle WA,2019-05-01 09:05:01,2022-06-29 05:58:10
+52,52,4,Administrative Assistant IV,Data Scientist,San Francisco CA,2019-03-21 06:33:41,2022-10-05 08:26:46
+53,53,2,Nurse,Lawyer,San Francisco CA,2019-04-22 04:43:40,2021-09-25 05:12:05
+54,54,1,Actuary,Cashier,San Francisco CA,2018-11-10 12:32:03,2021-10-13 19:35:14
+55,55,3,Social Worker,Lawyer,San Francisco CA,2020-10-03 15:45:59,2022-08-28 22:22:33
+56,56,4,Media Manager I,Software Engineer,Seattle WA,2019-03-26 00:56:55,
+57,57,2,Internal Auditor,Consultant,Seattle WA,2020-03-20 22:05:37,2022-07-15 09:36:26
+58,58,1,Registered Nurse,Data Scientist,San Francisco CA,2018-09-12 14:57:46,2022-06-09 12:36:49
+59,59,4,Recruiter,Truck Driver,San Francisco CA,2019-11-06 09:06:54,2022-05-01 02:16:54
+60,60,3,Director of Sales,Lawyer,New York NY,2018-09-23 13:55:02,2022-04-13 21:30:03
+61,61,2,Compensation Analyst,Cashier,Seattle WA,2019-11-25 14:00:51,2022-04-10 10:26:48
+62,62,4,Senior Financial Analyst,Data Scientist,San Francisco CA,2020-05-24 19:10:46,
+63,63,3,Speech Pathologist,Cashier,New York NY,2019-06-09 21:38:45,2022-07-18 01:15:02
+64,64,1,Community Outreach Specialist,Software Engineer,San Francisco CA,2019-12-22 01:38:27,2021-08-24 12:58:36
+65,65,2,Legal Assistant,Lawyer,Seattle WA,2020-09-03 04:59:29,
+66,66,4,Chemical Engineer,Salesperson,San Francisco CA,2018-08-08 00:31:23,
+67,67,2,Research Associate,Salesperson,San Francisco CA,2018-02-15 23:31:17,
+68,68,3,Marketing Manager,Truck Driver,San Francisco CA,2019-10-13 08:29:11,2022-04-24 12:07:22
+69,69,2,Software Test Engineer II,Software Engineer,Seattle WA,2018-01-06 11:47:31,
+70,70,4,Help Desk Technician,Lawyer,Seattle WA,2018-01-10 07:59:08,2022-07-08 08:00:25
+71,71,2,Pharmacist,Lawyer,New York NY,2018-05-05 12:03:16,
+72,72,3,Senior Quality Engineer,Truck Driver,San Francisco CA,2020-03-11 08:13:30,2022-09-12 00:33:16
+73,73,4,Help Desk Operator,Software Engineer,San Francisco CA,2020-06-26 12:31:48,2021-10-07 10:36:50
+74,74,3,VP Accounting,Truck Driver,New York NY,2020-06-08 03:49:57,2021-06-03 04:33:07
+75,75,2,Marketing Manager,Consultant,San Francisco CA,2019-12-31 14:27:27,2022-10-12 03:07:40
+76,76,3,Speech Pathologist,Lawyer,San Francisco CA,2019-06-06 02:33:26,2021-08-23 15:39:22
+77,77,2,Teacher,Software Engineer,San Francisco CA,2019-01-01 21:53:41,2022-03-12 11:32:58
+78,78,3,Nuclear Power Engineer,Truck Driver,Seattle WA,2020-03-27 00:41:30,2021-08-01 05:27:53
+79,79,4,Structural Analysis Engineer,Truck Driver,Seattle WA,2019-04-21 01:15:14,2022-12-30 15:47:44
+80,80,1,Programmer Analyst II,Truck Driver,Seattle WA,2018-09-15 18:18:17,2021-09-04 23:59:08
+81,81,1,Research Associate,Data Scientist,New York NY,2018-10-26 08:10:30,2021-08-12 05:47:24
+82,82,1,Staff Scientist,Data Scientist,New York NY,2019-03-20 02:14:09,2021-06-29 23:52:10
+83,83,1,Statistician IV,Salesperson,New York NY,2019-09-06 20:29:49,
+84,84,1,Project Manager,Lawyer,San Francisco CA,2019-02-14 06:32:14,2022-06-18 13:26:13
+85,85,1,Staff Accountant III,Software Engineer,Seattle WA,2018-09-30 11:03:19,2022-02-28 19:57:21
+86,86,2,Food Chemist,Software Engineer,New York NY,2020-07-31 10:40:20,
+87,87,2,Financial Advisor,Data Scientist,San Francisco CA,2018-12-25 20:11:00,
+88,88,1,Administrative Assistant IV,Data Scientist,New York NY,2020-06-15 11:32:38,2022-09-22 12:28:34
+89,89,4,Programmer II,Lawyer,Seattle WA,2019-07-22 15:34:40,
+90,90,2,Clinical Specialist,Salesperson,Seattle WA,2019-10-20 05:25:36,2022-07-09 09:09:59
+91,91,1,Research Assistant I,Data Scientist,Seattle WA,2019-12-13 02:44:35,
+92,92,2,Data Coordiator,Truck Driver,Seattle WA,2018-05-25 02:10:31,2022-05-18 09:31:23
+93,93,3,Statistician II,Data Scientist,Seattle WA,2020-12-18 11:39:54,
+94,94,3,Community Outreach Specialist,Lawyer,Seattle WA,2020-12-13 19:44:02,2022-01-31 07:08:14
+95,95,3,Technical Writer,Software Engineer,San Francisco CA,2018-08-27 08:44:12,2021-07-24 16:46:08
+96,96,3,Nurse Practicioner,Lawyer,Seattle WA,2019-03-30 18:49:14,2022-11-24 02:38:27
+97,97,3,Media Manager II,Consultant,San Francisco CA,2020-08-29 19:14:52,2022-02-26 11:34:30
+98,98,2,Executive Secretary,Cashier,New York NY,2020-09-21 17:37:38,2022-03-24 17:14:06
+99,99,3,Administrative Assistant III,Software Engineer,New York NY,2020-01-21 01:00:38,2021-09-18 15:41:17
+100,100,1,Account Executive,Consultant,San Francisco CA,2019-09-16 18:37:51,2022-04-17 15:49:31
+101,101,2,Senior Sales Associate,Software Engineer,Seattle WA,2019-02-22 10:01:20,
+102,102,4,Help Desk Technician,Software Engineer,San Francisco CA,2018-05-19 19:55:05,2022-09-04 08:25:17
+103,103,4,Research Associate,Data Scientist,New York NY,2018-09-08 05:52:35,
+104,104,2,Geologist IV,Software Engineer,New York NY,2018-10-02 04:01:24,2022-04-30 08:13:43
+105,105,4,Computer Systems Analyst IV,Truck Driver,San Francisco CA,2020-10-21 01:10:56,2022-03-12 00:05:25
+106,106,3,Assistant Media Planner,Data Scientist,San Francisco CA,2019-10-01 01:03:29,2021-08-08 03:09:20
+107,107,4,Account Representative II,Lawyer,New York NY,2018-12-13 06:58:39,2021-10-08 10:05:27
+108,108,3,Biostatistician III,Software Engineer,Seattle WA,2020-08-16 02:07:54,
+109,109,3,Librarian,Salesperson,San Francisco CA,2019-03-20 03:14:39,2022-02-12 23:05:04
+110,110,1,Assistant Professor,Lawyer,Seattle WA,2020-09-20 04:02:01,2022-01-26 21:53:37
+111,111,4,General Manager,Cashier,San Francisco CA,2019-03-27 20:31:50,2021-10-17 17:56:37
+112,112,4,General Manager,Truck Driver,Seattle WA,2019-05-10 06:13:08,2021-10-21 10:09:52
+113,113,3,Health Coach IV,Truck Driver,New York NY,2018-11-14 11:15:36,
+114,114,1,Structural Engineer,Salesperson,Seattle WA,2020-07-31 05:15:08,2022-04-24 18:33:54
+115,115,3,Pharmacist,Cashier,New York NY,2020-08-11 06:33:27,2022-07-30 20:53:25
+116,116,3,Office Assistant I,Truck Driver,New York NY,2018-08-15 04:34:21,2022-10-11 13:39:44
+117,117,2,Clinical Specialist,Truck Driver,San Francisco CA,2020-12-16 05:38:50,2021-07-13 23:41:26
+118,118,2,Research Associate,Consultant,New York NY,2019-12-20 04:40:43,2022-09-05 20:47:23
+119,119,4,Librarian,Lawyer,Seattle WA,2020-08-08 08:45:42,2022-09-06 22:01:10
+120,120,4,Account Executive,Software Engineer,Seattle WA,2020-07-26 03:49:12,2022-10-18 14:03:55
+121,121,2,Pharmacist,Salesperson,New York NY,2020-03-03 10:33:03,2022-03-31 17:03:42
+122,122,4,Account Executive,Software Engineer,Seattle WA,2018-01-29 07:01:29,2021-06-02 15:10:22
+123,123,4,Desktop Support Technician,Truck Driver,Seattle WA,2018-09-07 02:53:54,2021-08-23 22:59:54
+124,124,2,Marketing Assistant,Data Scientist,New York NY,2018-08-21 18:23:37,2022-09-24 06:23:04
+125,125,3,Senior Editor,Software Engineer,San Francisco CA,2020-12-05 00:07:39,
+126,126,2,Financial Analyst,Salesperson,New York NY,2019-06-24 04:05:24,2022-10-17 19:42:57
+127,127,3,Systems Administrator IV,Data Scientist,Seattle WA,2020-07-03 18:12:57,2022-12-13 00:08:47
+128,128,2,Health Coach I,Software Engineer,Seattle WA,2018-01-27 07:07:37,2022-12-08 18:24:35
+129,129,1,Computer Systems Analyst IV,Data Scientist,San Francisco CA,2019-04-03 05:16:24,
+130,130,2,Business Systems Development Analyst,Consultant,New York NY,2019-10-16 17:06:13,2022-04-06 02:20:16
+131,131,2,Graphic Designer,Lawyer,Seattle WA,2018-04-24 07:29:55,2022-06-06 15:03:29
+132,132,3,Operator,Truck Driver,Seattle WA,2020-09-28 16:36:33,
+133,133,1,Engineer I,Data Scientist,Seattle WA,2019-12-20 21:21:36,2022-10-10 09:04:47
+134,134,3,Database Administrator II,Cashier,Seattle WA,2020-02-13 02:03:58,2021-07-17 11:03:00
+135,135,1,Geologist III,Salesperson,New York NY,2020-01-28 09:14:39,2022-08-06 09:11:15
+136,136,4,Technical Writer,Software Engineer,New York NY,2019-06-02 03:07:45,2021-11-27 00:56:41
+137,137,3,Analog Circuit Design manager,Software Engineer,New York NY,2018-05-31 09:16:42,
+138,138,1,Civil Engineer,Salesperson,San Francisco CA,2018-07-29 15:39:03,
+139,139,1,Senior Editor,Consultant,Seattle WA,2020-09-07 18:57:22,2022-06-13 07:25:02
+140,140,1,Teacher,Consultant,San Francisco CA,2020-09-12 23:28:59,2022-02-13 20:56:05
+141,141,3,Operator,Truck Driver,San Francisco CA,2020-11-08 22:16:19,2021-10-06 13:52:05
+142,142,3,VP Sales,Cashier,Seattle WA,2018-10-24 00:33:56,2022-10-08 12:35:10
+143,143,2,Media Manager II,Cashier,New York NY,2019-07-22 13:57:26,
+144,144,2,Operator,Consultant,San Francisco CA,2019-05-13 01:43:52,2022-03-26 03:19:13
+145,145,4,Account Representative I,Lawyer,San Francisco CA,2019-05-14 10:12:35,2022-04-13 10:44:14
+146,146,4,Staff Accountant I,Cashier,Seattle WA,2018-03-15 02:22:20,2022-11-06 22:05:50
+147,147,3,Technical Writer,Data Scientist,New York NY,2018-10-11 14:53:20,2022-08-26 18:10:04
+148,148,3,VP Marketing,Software Engineer,Seattle WA,2018-05-14 16:25:52,
+149,149,3,Executive Secretary,Lawyer,New York NY,2020-10-29 23:35:16,2021-11-07 11:22:52
+150,150,2,Teacher,Lawyer,San Francisco CA,2018-03-10 05:55:00,
+151,151,3,Quality Engineer,Salesperson,Seattle WA,2019-08-03 18:48:38,2022-07-13 04:51:43
+152,152,1,Professor,Truck Driver,San Francisco CA,2018-06-14 19:52:55,2021-07-12 17:17:28
+153,153,1,Mechanical Systems Engineer,Truck Driver,San Francisco CA,2018-08-17 14:34:17,2022-03-03 04:16:27
+154,154,2,Sales Associate,Salesperson,New York NY,2018-08-05 11:06:54,2021-08-30 21:21:37
+155,155,2,Clinical Specialist,Truck Driver,Seattle WA,2018-01-24 03:48:14,
+156,156,1,Physical Therapy Assistant,Data Scientist,San Francisco CA,2018-03-13 02:12:18,
+157,157,4,Programmer III,Truck Driver,San Francisco CA,2019-02-09 08:13:56,2022-08-31 11:09:37
+158,158,4,Database Administrator IV,Consultant,Seattle WA,2019-06-03 01:39:47,2021-09-01 14:41:16
+159,159,4,Associate Professor,Consultant,Seattle WA,2018-07-30 22:13:37,2022-01-31 13:57:44
+160,160,2,Sales Representative,Truck Driver,New York NY,2018-06-16 21:32:46,2022-04-23 20:06:57
+161,161,4,Automation Specialist II,Software Engineer,San Francisco CA,2019-05-28 05:44:00,2022-05-05 11:32:01
+162,162,4,Research Associate,Lawyer,Seattle WA,2018-06-17 06:52:31,2022-03-01 15:51:28
+163,163,4,Engineer II,Truck Driver,Seattle WA,2020-02-18 23:02:38,2022-11-27 12:14:23
+164,164,2,Help Desk Technician,Lawyer,San Francisco CA,2019-12-28 09:31:23,
+165,165,4,Operator,Cashier,San Francisco CA,2019-04-18 05:48:11,2022-02-27 08:20:30
+166,166,2,Internal Auditor,Salesperson,New York NY,2019-03-13 03:29:26,2021-11-06 05:50:17
+167,167,3,Compensation Analyst,Truck Driver,Seattle WA,2019-07-23 19:23:25,2022-06-29 13:01:00
+168,168,1,Environmental Tech,Salesperson,New York NY,2018-07-15 16:55:08,
+169,169,1,Nurse Practicioner,Cashier,San Francisco CA,2019-10-01 07:17:36,
+170,170,1,Information Systems Manager,Software Engineer,San Francisco CA,2018-12-20 19:49:20,
+171,171,4,Sales Representative,Truck Driver,Seattle WA,2019-05-13 14:03:37,2022-10-10 01:14:41
+172,172,4,Operator,Consultant,Seattle WA,2020-07-14 05:06:51,2021-09-22 14:33:04
+173,173,1,Sales Associate,Consultant,San Francisco CA,2020-08-18 00:12:50,2022-07-11 06:57:00
+174,174,2,Librarian,Cashier,Seattle WA,2020-10-14 18:37:36,2021-08-30 17:33:27
+175,175,4,Teacher,Software Engineer,Seattle WA,2020-03-08 07:14:59,2022-05-26 12:36:06
+176,176,2,Staff Scientist,Lawyer,New York NY,2019-05-29 10:47:06,2022-06-19 22:24:32
+177,177,3,Engineer III,Lawyer,New York NY,2020-11-26 19:42:46,2021-06-28 11:11:16
+178,178,4,Junior Executive,Data Scientist,Seattle WA,2019-07-21 12:18:58,2022-05-05 01:42:32
+179,179,1,Graphic Designer,Consultant,Seattle WA,2019-03-11 05:46:54,2022-05-18 14:15:56
+180,180,3,Financial Advisor,Data Scientist,New York NY,2019-12-17 02:54:16,
+181,181,1,Compensation Analyst,Consultant,Seattle WA,2020-09-24 09:26:48,
+182,182,3,Software Engineer I,Consultant,Seattle WA,2020-03-12 04:54:24,2022-09-12 01:15:03
+183,183,2,Quality Control Specialist,Truck Driver,New York NY,2020-04-01 23:42:28,2021-08-17 15:40:40
+184,184,1,Product Engineer,Lawyer,Seattle WA,2018-01-22 04:38:10,2021-11-03 09:16:23
+185,185,1,Human Resources Manager,Cashier,New York NY,2019-10-29 10:45:23,2021-07-15 01:25:40
+186,186,3,Account Coordinator,Lawyer,Seattle WA,2019-08-11 19:24:33,2022-11-29 00:50:19
+187,187,4,Help Desk Technician,Consultant,Seattle WA,2020-07-26 02:34:59,2022-02-15 11:00:34
+188,188,4,Software Engineer II,Consultant,New York NY,2020-10-27 08:47:22,2022-08-02 08:11:40
+189,189,2,Accounting Assistant I,Data Scientist,Seattle WA,2019-10-24 21:03:30,2022-03-26 11:21:23
+190,190,2,Safety Technician II,Cashier,San Francisco CA,2019-02-06 15:08:57,2022-08-12 14:03:31
+191,191,2,Account Coordinator,Software Engineer,Seattle WA,2018-10-20 04:09:51,
+192,192,2,Occupational Therapist,Salesperson,Seattle WA,2018-08-31 04:30:53,2022-12-04 14:54:03
+193,193,3,Accountant II,Salesperson,New York NY,2020-07-07 19:24:34,2021-12-28 20:20:22
+194,194,1,Nurse Practicioner,Lawyer,San Francisco CA,2020-09-08 11:27:39,2022-11-04 08:06:10
+195,195,1,Senior Editor,Data Scientist,San Francisco CA,2020-12-24 03:59:39,
+196,196,4,Environmental Specialist,Consultant,Seattle WA,2020-10-02 00:07:04,2022-09-03 16:06:07
+197,197,2,Marketing Manager,Cashier,New York NY,2018-02-16 09:50:08,2022-12-09 16:57:37
+198,198,2,Systems Administrator II,Consultant,New York NY,2020-03-29 01:13:58,2022-11-13 00:56:41
+199,199,3,Environmental Tech,Lawyer,Seattle WA,2019-07-02 18:42:47,2021-10-29 22:51:57
+200,200,3,Web Designer IV,Software Engineer,Seattle WA,2018-01-13 08:54:53,2021-08-09 01:53:43
+201,201,2,GIS Technical Architect,Salesperson,New York NY,2019-01-22 13:38:41,2021-07-14 12:07:11
+202,202,2,Nurse Practicioner,Cashier,San Francisco CA,2019-11-29 15:54:18,2022-10-06 07:52:28
+203,203,3,Database Administrator IV,Lawyer,New York NY,2018-02-25 11:59:04,2021-06-25 10:40:43
+204,204,2,Administrative Assistant I,Cashier,Seattle WA,2020-12-07 13:54:22,2021-06-08 07:11:21
+205,205,1,Paralegal,Cashier,New York NY,2020-11-27 07:54:25,2022-04-24 03:04:23
+206,206,2,Quality Control Specialist,Software Engineer,Seattle WA,2019-01-05 03:57:19,2022-03-29 03:08:19
+207,207,4,Structural Engineer,Lawyer,Seattle WA,2019-07-26 02:27:29,2021-10-11 20:50:06
+208,208,1,Health Coach III,Consultant,New York NY,2020-03-12 23:36:23,2021-11-07 06:08:02
+209,209,2,Senior Sales Associate,Truck Driver,Seattle WA,2020-12-10 17:25:32,2021-10-07 10:42:45
+210,210,3,Research Associate,Data Scientist,New York NY,2019-09-07 23:26:14,
+211,211,2,Junior Executive,Truck Driver,San Francisco CA,2019-02-15 03:06:41,
+212,212,3,Environmental Specialist,Cashier,San Francisco CA,2019-10-21 19:21:11,2021-08-10 16:03:19
+213,213,2,Help Desk Operator,Consultant,New York NY,2020-02-09 12:53:40,2021-09-07 08:57:39
+214,214,4,Financial Analyst,Software Engineer,San Francisco CA,2018-07-08 16:58:32,2021-09-14 15:47:26
+215,215,1,Human Resources Manager,Data Scientist,Seattle WA,2019-03-18 05:12:54,
+216,216,4,Accountant II,Consultant,San Francisco CA,2020-01-06 02:32:33,
+217,217,2,Nurse Practicioner,Truck Driver,New York NY,2019-08-29 07:15:29,2022-12-17 09:35:36
+218,218,4,Quality Engineer,Lawyer,San Francisco CA,2020-05-31 11:59:25,2022-02-14 10:15:49
+219,219,3,Staff Accountant II,Salesperson,New York NY,2019-03-22 02:20:50,2022-07-20 12:47:46
+220,220,1,Analyst Programmer,Truck Driver,New York NY,2020-10-30 18:12:01,2022-05-26 11:27:38
+221,221,3,Pharmacist,Consultant,New York NY,2020-06-26 18:46:48,2022-10-25 16:57:37
+222,222,4,Accounting Assistant III,Cashier,San Francisco CA,2020-04-27 05:43:15,2022-03-22 22:08:47
+223,223,3,Desktop Support Technician,Salesperson,San Francisco CA,2018-08-21 13:41:46,2021-10-07 22:32:05
+224,224,1,Geologist I,Consultant,Seattle WA,2020-02-09 03:56:44,
+225,225,2,Account Representative IV,Truck Driver,Seattle WA,2020-05-24 01:18:59,2021-07-13 11:33:22
+226,226,4,Assistant Media Planner,Data Scientist,New York NY,2020-05-17 20:06:34,2022-12-15 08:12:55
+227,227,1,Desktop Support Technician,Data Scientist,Seattle WA,2018-01-27 13:47:06,2022-11-12 03:06:32
+228,228,2,Software Engineer I,Lawyer,New York NY,2019-01-12 20:24:10,2021-12-09 12:56:03
+229,229,1,Quality Engineer,Cashier,San Francisco CA,2018-02-27 14:32:41,2021-06-20 03:21:16
+230,230,1,Human Resources Manager,Truck Driver,Seattle WA,2018-05-14 15:23:38,2022-05-21 03:43:56
+231,231,1,Account Coordinator,Cashier,San Francisco CA,2020-04-12 21:37:30,2022-08-04 07:56:54
+232,232,2,Account Executive,Truck Driver,New York NY,2019-02-25 18:21:36,2022-03-27 18:28:26
+233,233,4,Recruiting Manager,Salesperson,New York NY,2020-03-09 20:14:06,2022-05-27 20:32:37
+234,234,4,Nuclear Power Engineer,Consultant,San Francisco CA,2018-12-16 07:56:36,2022-08-09 15:39:18
+235,235,2,Design Engineer,Cashier,New York NY,2018-05-21 17:03:19,2021-10-18 11:51:57
+236,236,1,Chief Design Engineer,Lawyer,New York NY,2018-05-25 07:04:41,2022-08-09 01:27:35
+237,237,1,VP Marketing,Software Engineer,Seattle WA,2019-08-05 01:21:53,2022-07-05 16:10:11
+238,238,2,Tax Accountant,Salesperson,New York NY,2019-03-30 21:14:15,2022-03-26 07:32:16
+239,239,2,Internal Auditor,Lawyer,New York NY,2018-03-22 09:14:02,2022-08-18 16:54:32
+240,240,1,Nuclear Power Engineer,Salesperson,Seattle WA,2019-08-03 23:04:26,2021-07-18 05:31:55
+241,241,3,Social Worker,Data Scientist,Seattle WA,2020-12-03 09:29:08,2022-08-15 06:15:59
+242,242,2,Programmer Analyst II,Consultant,Seattle WA,2020-05-26 03:26:54,2022-07-31 14:26:24
+243,243,3,Electrical Engineer,Cashier,Seattle WA,2019-06-03 20:23:54,2021-12-13 06:20:45
+244,244,2,Research Nurse,Data Scientist,Seattle WA,2019-03-30 01:39:09,
+245,245,2,Research Associate,Salesperson,Seattle WA,2020-01-27 01:23:24,2022-06-01 04:31:52
+246,246,2,Project Manager,Cashier,San Francisco CA,2018-08-14 13:04:27,2022-02-12 06:41:20
+247,247,2,Payment Adjustment Coordinator,Cashier,New York NY,2019-03-03 18:37:54,2021-07-01 18:50:54
+248,248,4,Business Systems Development Analyst,Truck Driver,Seattle WA,2020-09-28 15:12:00,2021-11-11 06:44:52
+249,249,2,Administrative Assistant I,Lawyer,New York NY,2019-08-10 03:33:08,
+250,250,2,Systems Administrator III,Truck Driver,New York NY,2019-06-06 11:34:42,2022-04-20 01:23:27
+251,251,4,Chemical Engineer,Cashier,New York NY,2019-06-02 04:13:05,2022-03-19 23:23:24
+252,252,3,Sales Associate,Software Engineer,New York NY,2018-12-09 05:28:41,
+253,253,3,Administrative Officer,Data Scientist,Seattle WA,2020-05-13 08:37:15,2021-08-24 03:53:07
+254,254,4,Mechanical Systems Engineer,Lawyer,New York NY,2020-11-04 11:01:44,2022-05-08 20:11:07
+255,255,1,Actuary,Truck Driver,San Francisco CA,2018-07-23 00:09:13,2022-01-25 19:14:59
+256,256,4,GIS Technical Architect,Consultant,San Francisco CA,2018-07-13 02:41:20,2021-07-12 14:34:56
+257,257,1,Safety Technician II,Data Scientist,New York NY,2020-08-17 09:58:26,
+258,258,3,Environmental Tech,Truck Driver,San Francisco CA,2018-10-30 20:14:59,2021-10-30 01:47:11
+259,259,4,Programmer Analyst IV,Salesperson,San Francisco CA,2019-11-06 04:56:47,2022-10-26 14:17:57
+260,260,2,Assistant Manager,Truck Driver,Seattle WA,2019-04-03 19:21:27,2022-09-12 17:20:28
+261,261,4,Assistant Professor,Salesperson,San Francisco CA,2020-02-22 20:40:21,2021-07-22 20:50:29
+262,262,2,Statistician II,Truck Driver,New York NY,2018-08-19 10:45:59,2022-11-22 07:25:07
+263,263,1,Accountant IV,Salesperson,San Francisco CA,2018-12-10 23:42:11,2022-10-09 22:35:09
+264,264,4,Financial Advisor,Consultant,New York NY,2019-03-18 18:11:57,2021-08-29 01:24:09
+265,265,1,Cost Accountant,Data Scientist,Seattle WA,2020-11-02 06:33:27,
+266,266,2,Environmental Specialist,Software Engineer,Seattle WA,2019-07-31 04:40:22,2022-06-22 14:17:38
+267,267,1,Community Outreach Specialist,Truck Driver,San Francisco CA,2018-09-12 08:14:10,2021-11-21 06:42:42
+268,268,2,Database Administrator IV,Data Scientist,Seattle WA,2018-10-07 19:22:44,2021-08-26 01:48:21
+269,269,4,Developer III,Salesperson,New York NY,2019-01-14 07:50:10,2022-11-15 15:14:30
+270,270,1,Software Test Engineer III,Consultant,New York NY,2020-08-06 04:01:09,
+271,271,1,Database Administrator I,Software Engineer,San Francisco CA,2018-12-01 08:30:03,2022-06-02 17:08:17
+272,272,4,Human Resources Manager,Truck Driver,New York NY,2019-05-15 10:24:21,2021-09-10 18:28:24
+273,273,1,Editor,Cashier,Seattle WA,2018-12-31 03:07:40,2021-09-24 16:15:25
+274,274,3,Account Executive,Salesperson,San Francisco CA,2020-05-29 09:05:44,2022-10-03 10:04:31
+275,275,1,Analog Circuit Design manager,Truck Driver,New York NY,2020-10-01 13:25:31,2022-01-11 12:14:30
+276,276,3,Junior Executive,Software Engineer,New York NY,2020-03-11 14:56:02,
+277,277,1,Project Manager,Consultant,San Francisco CA,2018-08-05 03:44:13,
+278,278,2,Product Engineer,Truck Driver,San Francisco CA,2019-03-02 03:10:52,2022-04-17 20:34:07
+279,279,3,Budget/Accounting Analyst IV,Consultant,New York NY,2018-01-12 16:59:20,2022-01-02 04:13:48
+280,280,3,Web Developer IV,Truck Driver,New York NY,2019-02-10 04:30:40,2021-06-26 16:53:30
+281,281,1,Physical Therapy Assistant,Cashier,San Francisco CA,2019-07-05 11:35:10,
+282,282,1,VP Sales,Cashier,San Francisco CA,2019-11-08 17:55:58,2022-06-17 20:30:55
+283,283,2,Senior Developer,Consultant,New York NY,2020-10-30 16:32:52,
+284,284,4,General Manager,Data Scientist,Seattle WA,2018-04-29 23:02:58,2022-08-29 09:06:30
+285,285,2,Environmental Specialist,Data Scientist,Seattle WA,2020-04-24 20:21:13,2022-01-12 17:27:00
+286,286,4,Systems Administrator III,Consultant,San Francisco CA,2019-05-16 11:53:08,2021-10-30 01:11:03
+287,287,2,Account Executive,Cashier,San Francisco CA,2020-02-19 07:53:25,2022-11-09 00:33:57
+288,288,1,Operator,Salesperson,San Francisco CA,2020-07-08 05:33:04,2022-02-09 19:42:09
+289,289,3,Software Engineer III,Software Engineer,New York NY,2020-05-25 11:17:56,2021-10-16 21:25:11
+290,290,4,Health Coach I,Lawyer,New York NY,2019-02-11 02:19:51,2022-12-12 11:27:13
+291,291,4,Senior Editor,Consultant,San Francisco CA,2019-02-28 18:04:31,2022-08-18 12:33:28
+292,292,2,Account Coordinator,Data Scientist,San Francisco CA,2019-10-13 04:43:06,2021-10-21 16:26:21
+293,293,4,Recruiting Manager,Software Engineer,San Francisco CA,2018-08-26 12:32:46,2021-08-28 16:16:33
+294,294,2,Chief Design Engineer,Salesperson,New York NY,2020-08-05 02:23:53,2022-09-26 02:31:33
+295,295,3,Human Resources Manager,Truck Driver,New York NY,2020-05-27 03:35:26,2021-12-19 10:37:20
+296,296,1,Marketing Manager,Salesperson,New York NY,2020-05-13 14:15:55,2021-08-19 22:50:09
+297,297,3,Community Outreach Specialist,Salesperson,Seattle WA,2018-11-28 14:58:58,2022-10-19 06:07:25
+298,298,3,Civil Engineer,Lawyer,New York NY,2020-02-20 07:21:13,2022-08-08 12:32:06
+299,299,1,Chemical Engineer,Software Engineer,New York NY,2020-05-03 22:26:54,2022-06-06 17:13:11
+300,300,1,Quality Engineer,Salesperson,New York NY,2019-10-31 12:55:53,2021-07-25 11:43:42
+301,301,1,Staff Scientist,Cashier,New York NY,2020-09-30 04:13:01,2022-02-15 16:29:19
+302,302,3,Engineer I,Data Scientist,San Francisco CA,2020-07-07 09:22:55,2022-03-03 07:06:46
+303,303,1,Programmer Analyst IV,Software Engineer,New York NY,2019-06-11 02:13:02,2022-12-05 15:57:00
+304,304,3,Food Chemist,Software Engineer,San Francisco CA,2020-05-31 11:36:03,2022-01-17 19:24:25
+305,305,1,Environmental Specialist,Consultant,Seattle WA,2018-08-20 01:56:23,2022-07-30 00:20:11
+306,306,2,Developer IV,Truck Driver,San Francisco CA,2020-06-03 15:27:35,2022-09-16 09:05:06
+307,307,4,Sales Representative,Consultant,New York NY,2018-12-13 15:58:26,2022-07-09 06:06:04
+308,308,1,Web Designer III,Salesperson,New York NY,2018-06-19 01:20:37,
+309,309,4,Chief Design Engineer,Salesperson,Seattle WA,2019-12-13 14:41:15,
+310,310,1,Account Representative I,Truck Driver,San Francisco CA,2019-04-19 12:55:19,2022-10-07 15:30:58
+311,311,4,Junior Executive,Lawyer,San Francisco CA,2020-10-29 03:21:08,2022-09-20 23:46:37
+312,312,4,VP Product Management,Lawyer,San Francisco CA,2019-12-12 19:10:23,2022-10-03 12:56:32
+313,313,4,Graphic Designer,Cashier,San Francisco CA,2020-10-13 04:57:03,2022-05-13 17:18:51
+314,314,2,Software Engineer IV,Consultant,New York NY,2019-09-24 20:50:17,2022-01-21 07:24:48
+315,315,4,Technical Writer,Data Scientist,Seattle WA,2020-01-24 17:53:53,
+316,316,4,Marketing Assistant,Truck Driver,Seattle WA,2018-03-23 08:34:09,2021-12-24 23:31:06
+317,317,1,Structural Engineer,Truck Driver,New York NY,2019-03-03 08:53:56,2021-06-07 20:33:03
+318,318,1,Statistician II,Data Scientist,San Francisco CA,2020-03-04 22:03:55,2022-05-27 23:55:59
+319,319,3,Geological Engineer,Software Engineer,Seattle WA,2020-01-25 01:00:36,
+320,320,2,Graphic Designer,Data Scientist,San Francisco CA,2018-08-22 16:24:03,2022-01-30 06:27:40
+321,321,4,Staff Scientist,Data Scientist,San Francisco CA,2018-09-16 16:43:19,2021-10-01 03:00:16
+322,322,1,VP Accounting,Software Engineer,New York NY,2018-02-07 11:51:40,
+323,323,2,Accounting Assistant IV,Lawyer,San Francisco CA,2019-02-23 23:45:20,2021-10-24 12:04:53
+324,324,3,Programmer II,Consultant,New York NY,2019-02-19 04:34:35,2022-09-29 06:17:36
+325,325,1,Sales Associate,Lawyer,San Francisco CA,2019-02-12 08:41:17,2022-06-08 02:19:01
+326,326,1,Computer Systems Analyst I,Salesperson,San Francisco CA,2018-05-29 06:23:18,2021-08-03 01:36:22
+327,327,1,Financial Advisor,Consultant,New York NY,2020-11-22 14:10:18,2022-03-06 10:52:23
+328,328,4,Research Associate,Cashier,Seattle WA,2019-06-28 08:42:50,
+329,329,1,Dental Hygienist,Truck Driver,New York NY,2019-01-09 20:59:08,2022-06-28 06:19:39
+330,330,2,Quality Engineer,Consultant,San Francisco CA,2020-04-24 07:35:35,
+331,331,3,Editor,Data Scientist,Seattle WA,2019-07-08 00:28:00,2022-01-11 02:16:05
+332,332,2,Software Engineer IV,Cashier,New York NY,2019-06-30 16:11:23,
+333,333,3,Executive Secretary,Salesperson,Seattle WA,2018-05-24 17:44:56,2022-05-16 23:08:00
+334,334,4,Environmental Specialist,Truck Driver,New York NY,2018-07-02 11:58:13,2022-04-23 09:10:46
+335,335,2,Internal Auditor,Cashier,New York NY,2020-08-03 15:22:14,2021-06-01 03:32:31
+336,336,1,Human Resources Assistant II,Truck Driver,Seattle WA,2019-07-26 02:18:39,2022-03-06 16:27:54
+337,337,3,Internal Auditor,Lawyer,San Francisco CA,2020-10-18 05:36:15,2021-09-13 16:37:58
+338,338,3,Web Designer III,Consultant,New York NY,2019-04-19 21:39:33,2021-09-11 04:40:32
+339,339,3,Assistant Manager,Truck Driver,San Francisco CA,2019-12-31 19:26:12,2021-06-20 09:39:36
+340,340,1,Structural Analysis Engineer,Cashier,Seattle WA,2018-01-08 12:05:35,2022-04-01 09:26:24
+341,341,1,Senior Quality Engineer,Salesperson,New York NY,2018-07-20 21:10:37,
+342,342,4,Computer Systems Analyst III,Salesperson,New York NY,2020-08-24 13:32:24,2021-11-12 20:01:44
+343,343,3,Occupational Therapist,Software Engineer,Seattle WA,2018-10-30 02:24:48,2021-10-21 19:06:31
+344,344,2,Software Test Engineer III,Cashier,New York NY,2018-12-16 00:03:37,2021-12-04 18:12:10
+345,345,4,Graphic Designer,Truck Driver,San Francisco CA,2019-02-18 21:26:38,2021-06-15 16:58:51
+346,346,4,Office Assistant I,Lawyer,San Francisco CA,2020-11-20 12:19:01,2021-08-05 11:24:23
+347,347,4,Compensation Analyst,Data Scientist,Seattle WA,2018-12-06 09:00:28,2021-08-25 20:41:36
+348,348,4,Marketing Assistant,Salesperson,San Francisco CA,2020-07-09 14:29:21,2021-08-05 03:10:13
+349,349,2,Project Manager,Data Scientist,Seattle WA,2020-04-24 02:51:43,2021-09-15 04:52:31
+350,350,4,Food Chemist,Truck Driver,New York NY,2019-04-24 17:29:41,2022-01-01 19:21:23
+351,351,2,Professor,Data Scientist,New York NY,2020-08-27 03:57:13,
+352,352,4,Programmer III,Salesperson,San Francisco CA,2019-07-29 07:11:10,2021-11-19 15:17:18
+353,353,4,Senior Quality Engineer,Data Scientist,New York NY,2020-01-16 23:44:24,
+354,354,3,Senior Quality Engineer,Software Engineer,San Francisco CA,2018-10-22 00:23:16,
+355,355,4,Systems Administrator I,Data Scientist,New York NY,2020-10-27 19:55:54,2022-05-19 10:03:49
+356,356,4,Mechanical Systems Engineer,Software Engineer,Seattle WA,2020-06-26 10:39:00,2022-09-20 01:18:16
+357,357,2,Account Coordinator,Truck Driver,New York NY,2018-04-15 11:59:59,2022-12-06 01:33:16
+358,358,3,Quality Control Specialist,Lawyer,New York NY,2019-03-07 08:55:31,
+359,359,2,Assistant Media Planner,Lawyer,New York NY,2018-02-21 22:59:37,2022-10-20 08:41:05
+360,360,2,Compensation Analyst,Truck Driver,Seattle WA,2019-01-20 18:22:24,2022-01-17 17:00:44
+361,361,4,Marketing Assistant,Truck Driver,Seattle WA,2020-11-18 17:22:25,2022-08-04 06:31:10
+362,362,3,Teacher,Consultant,Seattle WA,2019-12-28 09:13:13,2021-08-26 04:26:47
+363,363,3,Systems Administrator IV,Truck Driver,New York NY,2018-04-18 21:59:23,2021-08-31 10:36:43
+364,364,2,Systems Administrator IV,Cashier,New York NY,2020-07-12 07:59:09,2021-09-05 03:22:58
+365,365,4,Human Resources Assistant I,Cashier,Seattle WA,2018-01-30 19:41:44,
+366,366,4,Programmer II,Salesperson,New York NY,2019-01-29 17:17:42,2022-12-20 16:46:52
+367,367,1,Senior Editor,Consultant,San Francisco CA,2020-07-24 12:47:55,2022-12-27 01:09:22
+368,368,2,Research Nurse,Salesperson,San Francisco CA,2018-01-05 22:52:26,
+369,369,4,Safety Technician III,Consultant,Seattle WA,2019-07-18 19:09:55,2022-02-25 09:48:38
+370,370,1,Speech Pathologist,Software Engineer,Seattle WA,2018-05-12 22:55:05,2022-01-25 12:20:18
+371,371,2,Developer II,Consultant,Seattle WA,2018-07-20 18:26:00,2022-04-04 08:31:38
+372,372,2,Senior Developer,Cashier,New York NY,2018-03-05 23:52:12,
+373,373,2,Research Associate,Lawyer,Seattle WA,2019-10-24 06:23:21,2021-10-01 23:36:56
+374,374,4,Database Administrator III,Software Engineer,Seattle WA,2019-06-29 08:10:57,
+375,375,4,Nurse Practicioner,Data Scientist,San Francisco CA,2019-02-03 03:19:36,
+376,376,4,Sales Associate,Salesperson,New York NY,2019-07-10 06:19:03,
+377,377,1,Design Engineer,Truck Driver,Seattle WA,2018-06-19 05:21:52,2022-12-12 06:23:17
+378,378,3,Tax Accountant,Software Engineer,New York NY,2019-04-26 19:11:39,2021-10-26 00:24:14
+379,379,3,Systems Administrator III,Cashier,San Francisco CA,2019-06-04 18:58:25,2021-12-29 02:58:01
+380,380,2,Physical Therapy Assistant,Salesperson,Seattle WA,2018-11-09 18:34:00,2022-10-10 07:35:29
+381,381,4,Assistant Professor,Salesperson,San Francisco CA,2019-01-12 14:10:46,
+382,382,2,Project Manager,Data Scientist,San Francisco CA,2018-09-15 14:43:57,2022-08-08 05:35:10
+383,383,1,Business Systems Development Analyst,Lawyer,New York NY,2020-11-03 17:34:48,
+384,384,2,Assistant Professor,Lawyer,Seattle WA,2019-04-04 15:32:18,2022-02-08 21:25:16
+385,385,1,Internal Auditor,Truck Driver,New York NY,2020-07-11 01:56:11,2022-02-18 15:18:29
+386,386,3,Cost Accountant,Salesperson,Seattle WA,2018-04-08 07:10:54,2021-10-04 09:07:54
+387,387,4,Budget/Accounting Analyst II,Consultant,San Francisco CA,2018-10-11 12:32:14,2022-01-01 21:24:00
+388,388,2,Clinical Specialist,Software Engineer,New York NY,2020-06-08 11:23:13,
+389,389,2,Programmer Analyst II,Salesperson,San Francisco CA,2019-02-04 10:23:24,2021-10-04 09:09:09
+390,390,3,Financial Advisor,Consultant,San Francisco CA,2018-03-04 19:44:46,2021-12-19 10:50:14
+391,391,1,Office Assistant IV,Lawyer,New York NY,2019-05-21 19:28:49,2022-09-19 13:31:10
+392,392,4,Programmer III,Lawyer,San Francisco CA,2018-08-27 11:03:03,
+393,393,1,Analog Circuit Design manager,Salesperson,Seattle WA,2018-01-06 06:09:47,2021-10-16 02:31:41
+394,394,1,Technical Writer,Salesperson,New York NY,2018-10-24 14:26:48,2021-12-28 10:13:29
+395,395,4,Physical Therapy Assistant,Lawyer,New York NY,2019-02-27 14:55:59,2022-02-28 10:56:09
+396,396,1,Recruiting Manager,Data Scientist,San Francisco CA,2020-11-17 20:19:38,2022-08-13 23:21:25
+397,397,2,Budget/Accounting Analyst IV,Lawyer,Seattle WA,2019-11-25 00:48:00,2021-06-09 14:30:52
+398,398,3,Help Desk Technician,Lawyer,Seattle WA,2019-09-08 11:13:00,
+399,399,4,Nurse Practicioner,Truck Driver,Seattle WA,2020-09-09 16:38:43,2022-11-16 17:52:45
+400,400,2,Assistant Media Planner,Software Engineer,Seattle WA,2018-01-27 22:54:44,2022-01-08 16:14:41
+401,401,1,Editor,Truck Driver,Seattle WA,2019-11-03 12:40:40,2021-09-29 13:59:38
+402,402,2,Research Associate,Salesperson,San Francisco CA,2019-11-10 21:34:43,
+403,403,1,Mechanical Systems Engineer,Cashier,New York NY,2018-05-14 19:35:27,2022-08-18 01:08:57
+404,404,4,Sales Representative,Lawyer,Seattle WA,2018-10-04 02:41:38,2022-09-05 21:27:31
+405,405,3,Actuary,Software Engineer,New York NY,2018-10-12 11:10:19,2022-10-14 05:23:29
+406,406,4,Paralegal,Software Engineer,San Francisco CA,2020-02-05 08:51:49,2021-08-23 13:56:13
+407,407,4,Director of Sales,Salesperson,New York NY,2019-10-20 21:00:21,2022-06-19 07:27:29
+408,408,2,Engineer IV,Truck Driver,San Francisco CA,2019-02-07 08:56:27,2021-12-15 03:26:09
+409,409,3,Office Assistant I,Salesperson,Seattle WA,2019-05-06 20:48:56,2021-12-01 23:45:33
+410,410,3,Senior Sales Associate,Lawyer,New York NY,2019-07-23 16:11:37,2021-06-15 16:42:04
+411,411,2,Physical Therapy Assistant,Data Scientist,San Francisco CA,2020-04-02 07:40:39,2021-12-07 07:58:41
+412,412,3,Health Coach II,Consultant,San Francisco CA,2019-12-20 11:04:37,2021-09-16 16:52:39
+413,413,2,VP Sales,Data Scientist,Seattle WA,2018-07-01 09:28:21,
+414,414,2,VP Accounting,Data Scientist,San Francisco CA,2018-05-23 16:04:42,2021-12-31 09:46:25
+415,415,3,VP Accounting,Salesperson,Seattle WA,2020-03-04 01:06:23,2021-11-27 09:03:43
+416,416,4,Business Systems Development Analyst,Truck Driver,Seattle WA,2020-12-19 18:48:25,2022-08-25 17:43:43
+417,417,4,Nurse,Consultant,New York NY,2018-12-01 03:55:27,
+418,418,4,Research Assistant II,Lawyer,New York NY,2020-12-28 04:45:39,2022-03-06 18:14:07
+419,419,4,Design Engineer,Data Scientist,Seattle WA,2020-01-27 00:12:46,2021-06-09 10:24:17
+420,420,4,Director of Sales,Cashier,Seattle WA,2018-11-14 19:02:10,2022-06-15 00:40:43
+421,421,4,Food Chemist,Software Engineer,Seattle WA,2020-08-08 09:44:39,2021-06-14 14:41:30
+422,422,2,Software Test Engineer IV,Lawyer,New York NY,2018-06-04 17:35:24,2021-06-11 20:25:52
+423,423,3,Internal Auditor,Salesperson,New York NY,2020-12-06 16:55:42,2022-10-20 15:21:14
+424,424,4,Compensation Analyst,Consultant,San Francisco CA,2019-05-05 01:00:53,2021-07-13 11:28:51
+425,425,4,VP Sales,Salesperson,New York NY,2018-07-09 22:49:01,2021-06-13 08:38:27
+426,426,4,Research Nurse,Truck Driver,Seattle WA,2019-09-04 18:00:58,2022-01-20 09:06:43
+427,427,1,Internal Auditor,Consultant,San Francisco CA,2019-10-21 12:37:05,2022-07-18 03:24:22
+428,428,3,Account Executive,Data Scientist,San Francisco CA,2018-03-07 08:36:46,2022-06-26 19:25:00
+429,429,4,Senior Financial Analyst,Consultant,San Francisco CA,2018-02-21 04:18:25,2022-09-24 03:01:32
+430,430,3,Computer Systems Analyst IV,Cashier,Seattle WA,2019-02-26 08:33:19,2021-12-30 12:06:48
+431,431,1,Technical Writer,Salesperson,San Francisco CA,2018-03-31 04:35:25,2021-10-05 13:18:41
+432,432,1,Structural Analysis Engineer,Software Engineer,San Francisco CA,2019-11-28 22:33:20,2021-06-23 21:23:38
+433,433,3,Staff Accountant IV,Truck Driver,New York NY,2020-06-13 15:30:50,2022-02-15 12:54:51
+434,434,2,Teacher,Software Engineer,New York NY,2018-08-07 17:51:37,2021-12-12 08:18:12
+435,435,4,Research Nurse,Truck Driver,San Francisco CA,2018-04-25 14:51:44,
+436,436,4,Quality Engineer,Cashier,Seattle WA,2020-11-30 13:21:43,2021-10-15 08:29:17
+437,437,1,Senior Financial Analyst,Software Engineer,San Francisco CA,2018-02-18 13:33:35,2021-10-15 15:25:16
+438,438,3,Internal Auditor,Cashier,San Francisco CA,2019-06-07 17:58:30,2022-06-16 19:57:12
+439,439,4,Physical Therapy Assistant,Truck Driver,Seattle WA,2020-08-04 01:34:09,
+440,440,2,Systems Administrator II,Consultant,New York NY,2020-07-29 03:13:16,
+441,441,2,Administrative Assistant IV,Consultant,New York NY,2020-03-01 13:31:56,
+442,442,2,Quality Engineer,Lawyer,Seattle WA,2019-08-08 18:31:57,
+443,443,2,Senior Editor,Cashier,New York NY,2020-10-07 10:00:59,2022-08-24 16:42:14
+444,444,1,Financial Analyst,Data Scientist,New York NY,2019-09-20 04:36:15,2021-10-30 19:24:47
+445,445,4,Electrical Engineer,Lawyer,New York NY,2019-10-21 05:48:16,2022-01-24 16:25:38
+446,446,2,Account Coordinator,Consultant,Seattle WA,2020-09-12 09:58:07,2022-09-07 23:51:41
+447,447,2,Account Coordinator,Truck Driver,San Francisco CA,2019-11-06 22:15:13,2022-06-16 18:46:56
+448,448,3,Nurse,Truck Driver,Seattle WA,2018-01-23 20:05:34,2021-07-13 09:22:19
+449,449,2,Mechanical Systems Engineer,Lawyer,New York NY,2019-05-30 13:51:19,2021-07-23 11:57:33
+450,450,1,Account Executive,Software Engineer,San Francisco CA,2019-06-03 11:17:42,2022-07-14 17:13:40
+451,451,1,Assistant Professor,Software Engineer,San Francisco CA,2020-09-12 02:17:57,2022-03-11 20:10:24
+452,452,4,Research Nurse,Truck Driver,Seattle WA,2019-10-10 12:31:13,2021-10-02 10:48:31
+453,453,3,Civil Engineer,Lawyer,Seattle WA,2019-01-27 16:43:19,
+454,454,3,Nurse Practicioner,Salesperson,New York NY,2019-12-14 22:26:12,
+455,455,1,Civil Engineer,Truck Driver,Seattle WA,2020-10-02 13:09:53,
+456,456,2,Executive Secretary,Lawyer,New York NY,2020-04-20 09:16:51,2022-07-04 11:07:54
+457,457,2,Systems Administrator II,Cashier,Seattle WA,2020-12-11 08:59:16,2022-01-19 05:20:42
+458,458,1,Administrative Assistant I,Truck Driver,San Francisco CA,2018-01-31 04:02:21,
+459,459,1,Occupational Therapist,Cashier,Seattle WA,2018-10-20 03:36:16,2021-08-24 10:41:57
+460,460,2,Health Coach I,Consultant,San Francisco CA,2018-01-27 09:11:38,2022-10-11 05:35:09
+461,461,3,Developer I,Truck Driver,New York NY,2018-08-06 17:34:54,2021-08-27 15:16:33
+462,462,1,Account Representative I,Truck Driver,San Francisco CA,2018-01-24 23:34:48,2022-09-27 04:59:56
+463,463,3,Staff Accountant IV,Consultant,San Francisco CA,2020-09-30 15:13:59,2022-03-25 14:08:50
+464,464,3,Administrative Officer,Data Scientist,San Francisco CA,2018-07-26 09:33:02,2022-09-04 20:15:57
+465,465,3,Food Chemist,Software Engineer,San Francisco CA,2019-12-27 15:41:23,2021-10-07 06:23:17
+466,466,2,Director of Sales,Data Scientist,Seattle WA,2018-07-03 01:54:03,2021-09-07 00:37:14
+467,467,1,Environmental Specialist,Lawyer,New York NY,2020-02-23 00:57:41,2021-09-10 21:58:59
+468,468,2,Pharmacist,Data Scientist,Seattle WA,2019-06-28 17:58:14,2022-12-29 19:28:49
+469,469,2,Food Chemist,Data Scientist,New York NY,2020-04-01 18:37:14,2022-11-05 20:57:52
+470,470,3,Teacher,Lawyer,New York NY,2018-02-28 03:19:19,2022-05-09 18:48:27
+471,471,3,Automation Specialist III,Data Scientist,New York NY,2018-09-29 08:40:06,2022-09-30 21:56:56
+472,472,2,Software Test Engineer IV,Truck Driver,Seattle WA,2019-09-29 05:57:59,2021-10-27 21:43:50
+473,473,3,Data Coordiator,Data Scientist,San Francisco CA,2018-06-08 12:28:58,2022-05-21 08:46:15
+474,474,2,Operator,Lawyer,New York NY,2018-07-10 15:35:04,2022-10-11 06:14:32
+475,475,4,Recruiting Manager,Data Scientist,Seattle WA,2018-05-06 08:32:19,2022-01-04 13:41:05
+476,476,4,Financial Analyst,Consultant,New York NY,2019-10-02 15:46:07,2021-11-07 04:06:05
+477,477,1,Actuary,Data Scientist,Seattle WA,2020-11-17 15:40:07,2021-12-18 19:01:00
+478,478,4,Software Test Engineer II,Software Engineer,New York NY,2019-12-13 15:00:00,2022-10-02 17:38:46
+479,479,1,Graphic Designer,Data Scientist,San Francisco CA,2018-07-28 10:42:50,2021-06-19 10:24:28
+480,480,1,Director of Sales,Data Scientist,Seattle WA,2020-07-03 22:10:31,
+481,481,1,Community Outreach Specialist,Data Scientist,New York NY,2019-07-06 15:00:07,2022-08-18 05:24:53
+482,482,2,Human Resources Assistant IV,Data Scientist,San Francisco CA,2019-12-27 12:24:50,2022-01-05 18:59:21
+483,483,1,Dental Hygienist,Data Scientist,Seattle WA,2019-07-30 18:38:48,2021-09-16 06:16:36
+484,484,1,Professor,Cashier,Seattle WA,2020-03-21 01:43:39,
+485,485,1,Quality Engineer,Cashier,San Francisco CA,2018-06-06 12:25:37,2021-11-10 22:33:17
+486,486,2,Paralegal,Data Scientist,Seattle WA,2020-03-26 10:01:40,2021-08-03 05:22:02
+487,487,2,Social Worker,Cashier,San Francisco CA,2018-01-30 08:55:00,2021-12-30 09:21:24
+488,488,1,Environmental Tech,Cashier,Seattle WA,2018-01-07 15:12:12,2022-02-16 20:49:37
+489,489,3,VP Marketing,Consultant,San Francisco CA,2018-07-30 14:17:05,2022-08-16 10:50:01
+490,490,2,Safety Technician III,Cashier,San Francisco CA,2018-06-03 16:21:25,2021-08-17 00:37:14
+491,491,4,Automation Specialist IV,Data Scientist,Seattle WA,2020-08-17 16:47:59,2022-12-17 00:17:18
+492,492,2,Senior Quality Engineer,Lawyer,San Francisco CA,2019-08-19 17:15:20,2022-11-07 15:56:28
+493,493,1,Occupational Therapist,Lawyer,New York NY,2018-08-30 20:24:55,2022-05-30 10:55:36
+494,494,1,Food Chemist,Cashier,San Francisco CA,2018-08-31 09:55:31,2022-02-14 10:15:05
+495,495,3,Geologist IV,Consultant,New York NY,2019-02-18 23:49:22,2022-02-18 22:18:57
+496,496,3,GIS Technical Architect,Software Engineer,New York NY,2018-07-07 04:42:41,
+497,497,3,Accountant III,Cashier,Seattle WA,2018-10-13 17:01:45,2022-09-05 13:41:52
+498,498,3,Pharmacist,Data Scientist,New York NY,2019-08-22 02:41:31,
+499,499,1,Physical Therapy Assistant,Salesperson,New York NY,2020-09-20 20:42:10,2021-06-23 23:50:27
+500,500,4,VP Marketing,Cashier,San Francisco CA,2019-08-24 18:13:40,2022-11-24 12:23:28
+501,501,4,Recruiting Manager,Salesperson,San Francisco CA,2018-09-28 05:58:23,2021-11-03 04:23:05
+502,502,2,Safety Technician II,Cashier,New York NY,2020-07-04 04:43:18,
+503,503,2,Occupational Therapist,Consultant,Seattle WA,2019-07-10 01:53:06,2022-03-23 03:07:37
+504,504,4,Dental Hygienist,Data Scientist,Seattle WA,2020-02-18 17:59:44,2022-05-23 00:51:08
+505,505,1,Director of Sales,Cashier,New York NY,2020-06-06 12:46:02,2022-11-02 04:47:06
+506,506,4,Geologist III,Salesperson,San Francisco CA,2020-05-21 16:18:34,2022-12-12 12:54:59
+507,507,1,Programmer I,Lawyer,Seattle WA,2020-02-05 21:37:10,2021-12-23 16:11:07
+508,508,4,Financial Advisor,Cashier,San Francisco CA,2019-09-09 18:48:37,2022-09-12 05:10:49
+509,509,3,Web Developer IV,Consultant,New York NY,2018-09-10 08:52:25,2022-05-22 05:58:31
+510,510,4,General Manager,Truck Driver,New York NY,2018-08-26 23:10:46,2022-05-27 20:31:00
+511,511,4,Senior Developer,Salesperson,San Francisco CA,2020-08-16 13:43:45,2021-10-17 05:53:21
+512,512,3,Account Executive,Cashier,New York NY,2019-01-23 21:40:58,2022-06-28 19:12:37
+513,513,2,Executive Secretary,Truck Driver,New York NY,2019-11-28 04:04:44,2022-07-24 16:22:45
+514,514,4,Computer Systems Analyst II,Consultant,San Francisco CA,2018-08-18 12:33:21,2022-07-17 16:10:42
+515,515,4,Accounting Assistant I,Data Scientist,San Francisco CA,2020-03-28 00:45:28,2022-04-11 01:51:12
+516,516,3,Product Engineer,Cashier,San Francisco CA,2018-08-09 16:25:40,2021-06-14 17:03:37
+517,517,4,Speech Pathologist,Truck Driver,New York NY,2019-08-09 23:42:31,
+518,518,2,Internal Auditor,Consultant,San Francisco CA,2020-12-29 05:30:16,2022-05-12 03:42:25
+519,519,1,Actuary,Consultant,Seattle WA,2019-05-02 00:04:49,2021-10-17 17:42:06
+520,520,1,Legal Assistant,Cashier,Seattle WA,2018-11-18 10:58:10,2021-06-01 05:54:17
+521,521,2,Geologist III,Software Engineer,New York NY,2020-08-20 11:33:22,2022-08-06 17:26:31
+522,522,3,Operator,Cashier,Seattle WA,2020-05-27 22:00:08,2022-06-19 22:56:15
+523,523,2,Operator,Cashier,San Francisco CA,2020-08-27 03:29:18,2022-09-07 00:44:57
+524,524,1,Senior Cost Accountant,Cashier,Seattle WA,2020-08-01 18:25:07,2022-08-06 23:42:58
+525,525,1,Chief Design Engineer,Truck Driver,San Francisco CA,2020-07-05 09:27:56,
+526,526,3,Environmental Specialist,Consultant,Seattle WA,2018-12-17 05:52:45,2021-09-05 03:50:57
+527,527,2,Payment Adjustment Coordinator,Salesperson,New York NY,2019-11-16 23:12:21,2022-05-30 05:45:41
+528,528,1,Food Chemist,Software Engineer,San Francisco CA,2020-09-23 21:10:19,2022-11-14 20:20:53
+529,529,3,Desktop Support Technician,Lawyer,Seattle WA,2018-11-11 17:12:45,2021-06-20 21:41:58
+530,530,3,Community Outreach Specialist,Truck Driver,Seattle WA,2020-07-26 05:19:42,2022-04-18 20:19:14
+531,531,4,Analyst Programmer,Salesperson,Seattle WA,2018-09-14 13:45:48,
+532,532,1,Tax Accountant,Truck Driver,San Francisco CA,2018-08-10 04:16:19,
+533,533,1,Help Desk Operator,Lawyer,New York NY,2020-02-07 08:03:54,
+534,534,2,Legal Assistant,Consultant,San Francisco CA,2019-01-30 20:54:54,2022-09-07 14:22:39
+535,535,1,Automation Specialist IV,Truck Driver,New York NY,2019-11-05 08:27:21,2022-07-05 07:46:32
+536,536,4,Health Coach IV,Lawyer,San Francisco CA,2020-07-26 16:34:38,
+537,537,2,Systems Administrator II,Truck Driver,New York NY,2018-11-23 19:43:15,2022-12-27 00:44:50
+538,538,4,Geological Engineer,Lawyer,New York NY,2018-03-06 14:35:44,2021-10-22 07:14:41
+539,539,1,Community Outreach Specialist,Data Scientist,New York NY,2018-09-16 21:58:05,2022-12-03 18:39:13
+540,540,2,Media Manager IV,Consultant,San Francisco CA,2018-06-01 06:21:28,
+541,541,2,Pharmacist,Consultant,San Francisco CA,2018-06-24 07:54:05,
+542,542,3,Mechanical Systems Engineer,Lawyer,San Francisco CA,2020-08-15 19:01:35,2022-05-31 07:54:55
+543,543,2,Geologist III,Cashier,San Francisco CA,2020-08-09 12:08:11,2021-07-13 06:02:56
+544,544,2,Automation Specialist IV,Lawyer,Seattle WA,2020-08-01 23:06:45,2022-06-03 18:53:02
+545,545,4,Dental Hygienist,Consultant,New York NY,2020-04-30 22:19:36,
+546,546,4,Human Resources Assistant I,Cashier,New York NY,2020-12-03 06:25:08,
+547,547,4,Automation Specialist II,Consultant,Seattle WA,2020-01-10 05:06:38,2022-11-06 22:44:46
+548,548,4,Accounting Assistant II,Lawyer,New York NY,2020-12-07 20:28:37,2022-11-06 18:49:54
+549,549,3,Civil Engineer,Salesperson,San Francisco CA,2020-05-16 02:21:03,2022-12-07 16:21:50
+550,550,4,Business Systems Development Analyst,Truck Driver,San Francisco CA,2019-12-25 18:57:09,2022-07-30 15:50:36
+551,551,4,VP Marketing,Software Engineer,New York NY,2019-01-08 06:38:03,2021-06-20 22:54:34
+552,552,1,Social Worker,Consultant,New York NY,2019-01-08 13:13:48,2022-05-07 04:51:37
+553,553,2,Senior Sales Associate,Cashier,New York NY,2018-07-02 19:26:35,
+554,554,2,Automation Specialist II,Salesperson,San Francisco CA,2018-05-02 16:22:02,2022-11-19 02:53:40
+555,555,3,Account Representative III,Consultant,San Francisco CA,2020-09-22 21:51:57,
+556,556,2,Computer Systems Analyst III,Data Scientist,New York NY,2019-03-22 05:00:46,2022-11-05 19:35:35
+557,557,4,Sales Representative,Lawyer,San Francisco CA,2020-01-28 20:18:21,2021-07-06 05:28:02
+558,558,4,Professor,Software Engineer,New York NY,2019-01-26 17:01:04,2022-07-21 18:50:42
+559,559,2,Senior Financial Analyst,Truck Driver,New York NY,2019-08-27 00:37:34,2021-06-08 17:44:05
+560,560,1,Quality Control Specialist,Salesperson,Seattle WA,2020-03-14 00:29:59,
+561,561,4,Actuary,Software Engineer,San Francisco CA,2019-01-09 06:28:51,2021-10-17 18:37:51
+562,562,1,Senior Cost Accountant,Salesperson,Seattle WA,2020-07-03 11:07:43,2022-01-17 12:14:33
+563,563,2,Compensation Analyst,Consultant,Seattle WA,2018-01-21 21:57:34,2021-08-15 00:12:45
+564,564,3,Mechanical Systems Engineer,Lawyer,Seattle WA,2018-12-30 22:42:56,2022-03-31 10:17:20
+565,565,3,VP Marketing,Software Engineer,San Francisco CA,2020-02-04 01:29:39,2021-10-20 00:31:53
+566,566,1,Research Assistant IV,Lawyer,New York NY,2020-01-01 04:36:42,2022-11-04 15:22:23
+567,567,1,Technical Writer,Lawyer,San Francisco CA,2020-10-02 04:00:39,
+568,568,4,Developer II,Truck Driver,San Francisco CA,2020-04-02 09:02:04,2022-11-09 05:20:36
+569,569,2,Sales Associate,Cashier,New York NY,2018-03-21 19:33:47,2021-08-08 10:01:26
+570,570,3,Recruiting Manager,Truck Driver,Seattle WA,2019-09-27 22:42:54,2022-05-29 22:27:50
+571,571,4,Director of Sales,Cashier,New York NY,2020-07-17 07:03:29,
+572,572,4,Technical Writer,Cashier,San Francisco CA,2019-12-09 18:00:58,2022-05-23 05:05:10
+573,573,2,Senior Cost Accountant,Software Engineer,San Francisco CA,2019-03-16 00:09:59,2022-10-21 13:43:11
+574,574,3,Payment Adjustment Coordinator,Data Scientist,San Francisco CA,2018-11-21 10:03:06,2022-04-07 09:43:26
+575,575,1,Technical Writer,Software Engineer,San Francisco CA,2019-06-19 05:07:53,2022-10-24 11:11:38
+576,576,3,Marketing Manager,Lawyer,New York NY,2019-09-14 13:23:59,2022-11-16 04:16:15
+577,577,4,Account Coordinator,Salesperson,San Francisco CA,2019-03-20 18:36:13,2022-05-05 19:39:43
+578,578,2,Geological Engineer,Consultant,New York NY,2019-06-08 04:10:02,2021-12-23 12:26:49
+579,579,3,Registered Nurse,Lawyer,San Francisco CA,2019-07-29 01:32:08,2022-05-28 22:41:59
+580,580,1,Junior Executive,Consultant,San Francisco CA,2019-09-30 10:49:08,2022-04-07 04:22:36
+581,581,2,Data Coordiator,Software Engineer,San Francisco CA,2018-02-15 18:09:10,2021-12-15 00:07:11
+582,582,4,Marketing Manager,Software Engineer,Seattle WA,2019-07-20 10:56:22,2022-01-06 10:21:16
+583,583,3,Help Desk Technician,Lawyer,San Francisco CA,2019-03-05 03:12:56,2022-08-05 01:43:40
+584,584,2,Quality Engineer,Cashier,Seattle WA,2018-12-26 15:03:02,2022-11-08 04:05:32
+585,585,2,Graphic Designer,Consultant,Seattle WA,2020-08-13 02:23:36,2022-01-11 19:41:10
+586,586,2,Software Consultant,Consultant,Seattle WA,2018-06-20 18:02:35,2021-06-12 01:49:22
+587,587,1,Software Engineer III,Cashier,San Francisco CA,2020-02-06 03:36:09,2022-08-22 20:19:34
+588,588,2,Clinical Specialist,Salesperson,Seattle WA,2020-05-23 02:10:52,2022-10-03 18:24:50
+589,589,1,Engineer III,Data Scientist,Seattle WA,2020-03-19 06:55:50,2021-11-28 12:12:05
+590,590,3,Graphic Designer,Data Scientist,Seattle WA,2018-07-05 14:28:15,2022-04-17 07:24:45
+591,591,1,Analyst Programmer,Truck Driver,Seattle WA,2020-11-12 22:53:51,2021-12-29 14:14:50
+592,592,4,Recruiting Manager,Consultant,Seattle WA,2018-04-18 11:58:25,2021-11-23 05:18:09
+593,593,1,Programmer Analyst II,Truck Driver,Seattle WA,2019-02-04 21:16:37,
+594,594,3,Biostatistician II,Consultant,Seattle WA,2018-09-08 17:04:01,2021-12-15 19:29:46
+595,595,2,Analog Circuit Design manager,Software Engineer,San Francisco CA,2019-07-29 00:24:21,2022-07-22 09:03:58
+596,596,4,Safety Technician II,Truck Driver,New York NY,2018-10-11 10:22:56,2021-12-31 16:38:56
+597,597,4,VP Marketing,Cashier,San Francisco CA,2020-04-09 02:59:35,2021-12-30 06:34:29
+598,598,2,Software Test Engineer II,Consultant,San Francisco CA,2018-06-19 18:21:37,2022-01-31 13:14:57
+599,599,1,Editor,Data Scientist,Seattle WA,2020-05-17 19:03:38,2021-06-03 02:45:52
+600,600,1,Senior Editor,Lawyer,New York NY,2018-08-19 09:25:20,2022-04-15 01:25:20
+601,601,4,Accounting Assistant II,Software Engineer,San Francisco CA,2020-07-21 11:04:10,2022-02-28 08:52:28
+602,602,1,Safety Technician I,Salesperson,Seattle WA,2019-11-02 05:37:22,2021-09-27 02:40:37
+603,603,2,Occupational Therapist,Software Engineer,San Francisco CA,2019-12-11 21:36:05,2021-08-12 00:31:50
+604,604,3,Information Systems Manager,Truck Driver,New York NY,2020-12-26 09:41:58,2022-07-26 12:07:31
+605,605,1,Electrical Engineer,Software Engineer,San Francisco CA,2019-06-24 04:00:06,2021-10-25 20:37:07
+606,606,1,Librarian,Software Engineer,New York NY,2018-11-11 01:59:51,2022-03-23 00:43:08
+607,607,3,Research Assistant II,Lawyer,Seattle WA,2019-03-21 21:15:27,2022-11-20 17:11:38
+608,608,4,Food Chemist,Truck Driver,Seattle WA,2019-12-14 04:57:37,2022-02-27 12:48:33
+609,609,3,Staff Accountant IV,Salesperson,Seattle WA,2018-11-24 18:02:22,2022-07-26 15:01:43
+610,610,4,Software Engineer III,Software Engineer,New York NY,2018-03-07 15:36:05,
+611,611,1,Junior Executive,Truck Driver,New York NY,2020-02-08 23:47:47,2021-06-13 11:46:02
+612,612,1,Mechanical Systems Engineer,Salesperson,San Francisco CA,2019-07-04 08:05:37,2022-08-09 14:33:12
+613,613,3,VP Quality Control,Cashier,San Francisco CA,2020-10-04 23:55:29,
+614,614,2,VP Product Management,Data Scientist,Seattle WA,2020-07-11 01:36:24,2022-08-08 15:58:40
+615,615,3,GIS Technical Architect,Salesperson,Seattle WA,2019-11-28 08:45:13,2021-12-07 17:21:25
+616,616,2,Graphic Designer,Consultant,New York NY,2020-01-05 23:13:06,2022-02-03 23:03:20
+617,617,3,Recruiter,Data Scientist,San Francisco CA,2020-03-12 17:40:20,
+618,618,4,Actuary,Cashier,San Francisco CA,2018-07-01 10:49:15,
+619,619,4,Senior Editor,Salesperson,New York NY,2020-10-28 01:14:46,2021-09-28 05:07:43
+620,620,2,Legal Assistant,Software Engineer,Seattle WA,2018-05-09 07:35:31,2022-11-11 08:46:10
+621,621,4,Product Engineer,Lawyer,Seattle WA,2019-04-12 09:36:13,2022-09-05 06:41:23
+622,622,4,VP Marketing,Cashier,New York NY,2020-03-07 09:01:53,2022-07-23 11:27:39
+623,623,4,Human Resources Assistant II,Software Engineer,San Francisco CA,2018-03-24 20:37:16,2022-01-31 22:31:56
+624,624,1,Structural Analysis Engineer,Salesperson,New York NY,2019-11-30 01:45:04,2021-10-18 19:59:16
+625,625,4,Legal Assistant,Cashier,San Francisco CA,2018-02-22 00:34:39,2022-02-17 18:06:50
+626,626,1,VP Marketing,Cashier,Seattle WA,2019-04-02 18:24:44,2022-07-18 17:57:35
+627,627,4,Professor,Cashier,Seattle WA,2020-05-11 12:44:46,2022-01-28 22:43:16
+628,628,1,Geological Engineer,Salesperson,New York NY,2018-10-12 23:42:46,
+629,629,4,Software Engineer III,Software Engineer,Seattle WA,2020-07-25 20:36:20,2022-11-10 10:24:35
+630,630,4,VP Accounting,Data Scientist,Seattle WA,2018-11-03 15:16:24,2022-08-23 16:31:59
+631,631,4,Internal Auditor,Data Scientist,San Francisco CA,2020-09-29 15:20:55,2021-11-28 08:00:54
+632,632,2,Structural Engineer,Truck Driver,New York NY,2019-07-10 23:56:00,2021-10-13 11:04:48
+633,633,2,Health Coach IV,Software Engineer,New York NY,2019-01-03 20:11:13,2021-09-03 15:08:44
+634,634,4,Dental Hygienist,Software Engineer,New York NY,2019-08-27 04:12:36,
+635,635,4,Executive Secretary,Consultant,San Francisco CA,2019-02-08 14:04:50,2022-09-30 04:59:17
+636,636,2,Occupational Therapist,Lawyer,San Francisco CA,2018-04-03 08:00:41,2021-06-10 03:06:17
+637,637,1,Graphic Designer,Software Engineer,San Francisco CA,2019-01-31 23:58:07,2022-07-07 22:19:53
+638,638,3,Developer IV,Software Engineer,San Francisco CA,2018-07-19 03:30:30,2022-09-21 05:16:05
+639,639,3,Internal Auditor,Truck Driver,San Francisco CA,2018-01-20 21:25:40,2022-12-03 22:31:53
+640,640,4,Analyst Programmer,Consultant,San Francisco CA,2019-08-21 23:44:49,2021-11-18 03:47:26
+641,641,1,Civil Engineer,Software Engineer,Seattle WA,2020-05-05 16:07:50,2022-07-11 09:43:42
+642,642,1,Research Nurse,Salesperson,San Francisco CA,2019-03-22 05:37:23,
+643,643,2,Statistician III,Software Engineer,Seattle WA,2020-01-04 05:21:27,2021-12-28 15:37:21
+644,644,3,Safety Technician IV,Data Scientist,San Francisco CA,2018-02-12 21:53:55,
+645,645,1,Software Test Engineer II,Consultant,New York NY,2020-11-22 08:13:29,2022-10-01 11:19:32
+646,646,1,General Manager,Salesperson,Seattle WA,2020-12-26 09:06:48,2021-07-29 06:26:05
+647,647,4,Professor,Consultant,Seattle WA,2019-06-30 19:17:06,
+648,648,4,Technical Writer,Lawyer,New York NY,2018-06-29 03:42:37,2022-01-03 20:58:01
+649,649,4,Actuary,Lawyer,Seattle WA,2019-01-05 14:18:10,
+650,650,2,Assistant Professor,Lawyer,New York NY,2018-12-31 02:09:57,
+651,651,1,Data Coordiator,Lawyer,Seattle WA,2020-06-24 19:04:49,
+652,652,4,Software Engineer II,Data Scientist,New York NY,2020-11-13 00:44:23,2022-12-16 22:48:32
+653,653,2,Mechanical Systems Engineer,Salesperson,Seattle WA,2019-04-04 21:29:39,2021-12-17 06:16:53
+654,654,2,Junior Executive,Cashier,San Francisco CA,2019-01-30 15:44:47,2022-07-23 19:48:54
+655,655,2,Cost Accountant,Cashier,Seattle WA,2019-03-30 22:02:35,
+656,656,4,Legal Assistant,Cashier,San Francisco CA,2018-06-09 09:19:19,2022-11-16 12:03:40
+657,657,4,Research Associate,Software Engineer,Seattle WA,2020-01-19 17:27:36,2021-08-07 15:27:05
+658,658,3,Structural Analysis Engineer,Consultant,San Francisco CA,2019-06-09 10:10:23,2022-06-09 07:19:15
+659,659,4,General Manager,Lawyer,Seattle WA,2018-11-06 15:07:55,
+660,660,1,Statistician I,Lawyer,New York NY,2019-04-26 20:26:33,2021-11-08 07:53:24
+661,661,4,Internal Auditor,Lawyer,New York NY,2018-03-08 20:00:10,
+662,662,2,Human Resources Manager,Cashier,Seattle WA,2018-12-25 05:06:08,2022-04-12 19:08:18
+663,663,1,Environmental Tech,Consultant,Seattle WA,2019-05-25 14:27:00,2021-11-22 07:03:08
+664,664,3,Teacher,Salesperson,Seattle WA,2020-11-10 17:41:18,
+665,665,3,Systems Administrator IV,Lawyer,New York NY,2019-12-03 00:41:47,2022-12-03 23:22:02
+666,666,2,Registered Nurse,Data Scientist,San Francisco CA,2019-12-04 13:37:12,2021-07-14 11:34:07
+667,667,3,Food Chemist,Truck Driver,San Francisco CA,2018-08-16 19:05:45,2022-04-12 00:23:16
+668,668,1,VP Quality Control,Consultant,New York NY,2018-05-12 06:29:04,2021-12-19 09:56:14
+669,669,2,Web Developer I,Cashier,Seattle WA,2020-05-05 23:11:51,2022-11-03 16:11:48
+670,670,3,Compensation Analyst,Software Engineer,Seattle WA,2020-06-18 13:35:50,2022-06-28 09:04:29
+671,671,1,Electrical Engineer,Consultant,Seattle WA,2019-09-14 09:55:19,2021-12-20 09:23:42
+672,672,4,Human Resources Manager,Cashier,New York NY,2019-03-18 20:56:06,
+673,673,3,Data Coordiator,Salesperson,Seattle WA,2020-12-27 03:19:22,2021-12-23 12:33:00
+674,674,4,Clinical Specialist,Consultant,Seattle WA,2018-04-25 19:15:38,2022-10-21 21:33:06
+675,675,4,Sales Associate,Salesperson,Seattle WA,2018-06-27 11:36:21,2022-02-06 03:23:17
+676,676,4,Biostatistician II,Data Scientist,Seattle WA,2020-07-24 05:41:29,2022-08-22 21:31:33
+677,677,1,Professor,Lawyer,Seattle WA,2020-12-15 18:52:39,2022-03-16 08:16:08
+678,678,3,Research Associate,Salesperson,San Francisco CA,2019-08-13 17:30:18,
+679,679,1,Financial Analyst,Cashier,Seattle WA,2018-10-20 20:23:09,2022-09-21 23:02:58
+680,680,1,Senior Sales Associate,Consultant,Seattle WA,2020-07-04 04:54:37,2022-03-23 06:49:16
+681,681,3,Business Systems Development Analyst,Truck Driver,New York NY,2019-05-13 09:00:07,2022-06-16 16:55:19
+682,682,1,Computer Systems Analyst III,Cashier,San Francisco CA,2018-04-12 11:41:51,
+683,683,3,Payment Adjustment Coordinator,Cashier,New York NY,2019-01-12 08:12:14,2022-09-05 02:59:36
+684,684,1,Biostatistician II,Cashier,Seattle WA,2020-04-28 15:52:33,2021-09-29 01:30:50
+685,685,2,Nuclear Power Engineer,Data Scientist,New York NY,2020-03-11 10:40:14,
+686,686,3,Accountant III,Cashier,New York NY,2018-09-05 17:38:50,2022-12-16 09:59:57
+687,687,1,Teacher,Salesperson,New York NY,2019-05-13 05:55:12,2022-12-23 08:07:01
+688,688,4,Internal Auditor,Consultant,San Francisco CA,2019-07-18 05:35:49,2022-04-10 07:35:32
+689,689,3,Nuclear Power Engineer,Lawyer,Seattle WA,2018-07-27 21:29:43,2022-09-27 21:59:20
+690,690,4,Financial Analyst,Consultant,Seattle WA,2020-03-12 16:48:07,2021-12-13 16:56:55
+691,691,3,Systems Administrator IV,Lawyer,San Francisco CA,2018-07-30 03:28:28,2021-12-10 06:44:52
+692,692,1,Account Executive,Salesperson,San Francisco CA,2020-04-03 00:09:05,2022-10-28 12:35:51
+693,693,1,Product Engineer,Data Scientist,Seattle WA,2018-01-07 03:55:08,2022-12-19 12:14:19
+694,694,2,Database Administrator III,Consultant,Seattle WA,2019-05-20 00:50:05,2021-11-03 20:11:37
+695,695,2,Automation Specialist IV,Consultant,Seattle WA,2019-11-14 08:24:13,2022-09-19 12:48:40
+696,696,3,Staff Scientist,Consultant,New York NY,2018-08-03 01:03:54,
+697,697,2,Business Systems Development Analyst,Salesperson,San Francisco CA,2019-03-22 06:40:33,2022-08-19 12:04:37
+698,698,1,VP Quality Control,Consultant,Seattle WA,2019-10-28 07:10:42,2021-08-22 09:49:47
+699,699,1,Programmer Analyst IV,Truck Driver,New York NY,2019-07-18 12:33:35,
+700,700,1,Marketing Manager,Software Engineer,Seattle WA,2020-01-14 19:03:27,
+701,701,3,Senior Cost Accountant,Cashier,New York NY,2019-09-08 17:17:10,2022-05-13 16:14:06
+702,702,4,Operator,Data Scientist,San Francisco CA,2020-07-18 07:02:50,
+703,703,2,Nurse,Cashier,Seattle WA,2018-02-23 18:49:02,
+704,704,4,Financial Advisor,Salesperson,Seattle WA,2018-10-06 18:57:36,2022-01-25 14:58:49
+705,705,2,Staff Accountant II,Cashier,Seattle WA,2018-04-27 21:09:22,2021-08-05 19:53:58
+706,706,2,Senior Quality Engineer,Salesperson,San Francisco CA,2018-04-25 02:37:39,2022-11-06 15:07:36
+707,707,3,Design Engineer,Salesperson,San Francisco CA,2018-03-17 11:07:51,2022-07-21 12:53:10
+708,708,1,Nurse Practicioner,Cashier,San Francisco CA,2018-07-14 20:26:53,2022-10-14 10:46:44
+709,709,3,Financial Advisor,Software Engineer,San Francisco CA,2019-07-18 19:47:11,2021-11-13 21:28:14
+710,710,1,Database Administrator IV,Data Scientist,New York NY,2018-02-16 09:00:20,2022-03-23 17:52:39
+711,711,4,Database Administrator I,Consultant,Seattle WA,2020-03-17 01:33:53,2021-06-11 03:25:01
+712,712,3,Database Administrator IV,Consultant,San Francisco CA,2019-03-02 23:43:04,2021-12-18 15:17:21
+713,713,1,Community Outreach Specialist,Truck Driver,New York NY,2018-01-06 01:58:43,2022-11-21 20:07:52
+714,714,4,Programmer I,Truck Driver,San Francisco CA,2020-02-24 00:11:29,
+715,715,2,Data Coordiator,Salesperson,San Francisco CA,2019-03-26 20:00:35,2022-07-07 09:49:19
+716,716,3,Senior Financial Analyst,Lawyer,Seattle WA,2020-04-16 07:16:35,2022-06-13 13:25:38
+717,717,2,Quality Engineer,Consultant,San Francisco CA,2018-02-19 15:02:51,2021-09-15 06:36:22
+718,718,1,Physical Therapy Assistant,Software Engineer,Seattle WA,2019-01-27 02:22:16,
+719,719,2,VP Marketing,Truck Driver,San Francisco CA,2019-01-31 15:22:43,2022-07-29 08:14:16
+720,720,2,Web Developer II,Cashier,New York NY,2018-01-31 08:18:36,
+721,721,2,Pharmacist,Lawyer,San Francisco CA,2020-07-07 04:08:07,
+722,722,1,Editor,Consultant,New York NY,2019-07-13 06:38:26,2022-05-11 13:17:32
+723,723,1,Account Representative IV,Salesperson,New York NY,2020-03-10 10:49:04,2022-05-27 00:52:06
+724,724,4,Programmer Analyst I,Cashier,New York NY,2020-09-08 15:01:57,2021-07-09 00:25:21
+725,725,1,Editor,Truck Driver,San Francisco CA,2018-08-18 06:45:31,2021-11-19 19:08:44
+726,726,3,Graphic Designer,Cashier,New York NY,2019-06-30 10:38:27,
+727,727,2,Editor,Cashier,Seattle WA,2020-09-23 15:48:20,2022-04-30 09:29:32
+728,728,3,Budget/Accounting Analyst I,Data Scientist,New York NY,2019-12-13 07:55:54,2022-12-02 20:47:10
+729,729,2,Senior Cost Accountant,Truck Driver,New York NY,2019-02-14 05:43:07,2022-06-07 01:54:29
+730,730,3,Account Executive,Consultant,New York NY,2018-03-24 05:18:17,2022-06-14 16:22:39
+731,731,2,Professor,Lawyer,Seattle WA,2018-05-11 20:25:10,2022-06-22 10:10:51
+732,732,2,Biostatistician I,Truck Driver,San Francisco CA,2020-06-06 11:35:11,
+733,733,3,Cost Accountant,Lawyer,San Francisco CA,2018-01-12 13:31:54,2021-10-10 17:13:50
+734,734,3,Programmer III,Cashier,New York NY,2018-01-06 06:53:57,2021-06-29 16:08:34
+735,735,2,Junior Executive,Salesperson,New York NY,2020-01-30 00:02:32,2022-08-10 22:32:55
+736,736,1,Business Systems Development Analyst,Consultant,Seattle WA,2018-05-28 21:06:48,2022-08-01 10:01:48
+737,737,2,Executive Secretary,Salesperson,San Francisco CA,2018-11-13 08:04:00,2021-10-10 08:31:11
+738,738,1,Programmer Analyst III,Software Engineer,San Francisco CA,2018-02-20 14:25:01,2021-10-25 12:33:54
+739,739,3,Geologist IV,Data Scientist,New York NY,2018-08-05 00:28:06,2022-11-18 11:36:57
+740,740,2,Assistant Professor,Truck Driver,New York NY,2018-08-18 02:17:19,2021-08-16 06:11:39
+741,741,3,Health Coach III,Software Engineer,Seattle WA,2019-01-02 14:52:02,2022-11-05 16:23:52
+742,742,4,Help Desk Operator,Salesperson,New York NY,2018-10-21 23:46:55,2022-01-18 16:12:41
+743,743,3,Account Executive,Data Scientist,New York NY,2019-07-15 02:20:21,2022-10-02 17:24:30
+744,744,2,Senior Developer,Data Scientist,San Francisco CA,2018-01-05 17:39:23,2022-02-05 19:07:24
+745,745,3,Marketing Assistant,Software Engineer,San Francisco CA,2020-02-27 00:42:41,2021-06-04 08:40:41
+746,746,3,Quality Engineer,Cashier,San Francisco CA,2018-12-07 18:51:52,2021-08-29 05:04:35
+747,747,3,Tax Accountant,Truck Driver,San Francisco CA,2019-03-21 04:47:33,
+748,748,3,Business Systems Development Analyst,Salesperson,Seattle WA,2020-06-10 05:05:00,2021-10-16 13:09:04
+749,749,1,Registered Nurse,Cashier,San Francisco CA,2018-09-11 23:52:40,2022-07-24 23:13:33
+750,750,4,Internal Auditor,Data Scientist,San Francisco CA,2018-03-13 15:01:10,2022-06-20 06:37:18
+751,751,3,Marketing Assistant,Data Scientist,Seattle WA,2020-06-19 05:42:41,2022-04-15 17:17:37
+752,752,2,Environmental Specialist,Salesperson,Seattle WA,2018-12-22 21:38:06,
+753,753,3,Web Developer III,Cashier,San Francisco CA,2019-02-26 03:10:34,2022-04-03 10:54:18
+754,754,1,Accounting Assistant II,Data Scientist,Seattle WA,2018-06-20 00:59:11,2022-10-11 05:26:09
+755,755,3,Analog Circuit Design manager,Consultant,Seattle WA,2019-11-06 12:01:34,2021-10-20 22:10:29
+756,756,4,Pharmacist,Software Engineer,New York NY,2018-07-13 22:02:40,
+757,757,1,Desktop Support Technician,Cashier,Seattle WA,2019-06-11 15:25:15,
+758,758,2,Director of Sales,Lawyer,San Francisco CA,2018-03-02 11:46:40,2021-07-30 00:48:22
+759,759,3,Librarian,Data Scientist,New York NY,2020-08-02 09:45:12,2021-10-22 09:10:22
+760,760,4,Structural Engineer,Salesperson,Seattle WA,2019-08-06 18:00:33,2022-03-14 01:06:51
+761,761,1,Legal Assistant,Data Scientist,San Francisco CA,2018-12-31 21:11:13,2022-12-23 19:27:21
+762,762,4,Assistant Professor,Data Scientist,New York NY,2020-10-04 07:46:32,2021-12-31 16:24:26
+763,763,1,Programmer II,Truck Driver,New York NY,2019-05-28 14:44:47,2022-01-31 12:44:25
+764,764,4,Project Manager,Software Engineer,New York NY,2019-11-21 16:54:35,2022-10-21 15:21:46
+765,765,4,GIS Technical Architect,Lawyer,Seattle WA,2019-01-09 04:57:48,2022-06-16 15:32:36
+766,766,4,Assistant Media Planner,Cashier,New York NY,2019-08-30 21:48:15,2022-02-24 10:08:20
+767,767,3,Sales Associate,Consultant,San Francisco CA,2019-06-22 17:11:10,2022-07-07 16:46:50
+768,768,3,Programmer Analyst II,Data Scientist,New York NY,2019-01-05 18:05:03,2022-07-07 02:04:04
+769,769,4,Chemical Engineer,Lawyer,Seattle WA,2018-04-27 03:09:12,2022-10-17 13:06:39
+770,770,1,Administrative Officer,Truck Driver,Seattle WA,2018-04-29 17:26:33,2021-06-23 04:34:05
+771,771,3,Assistant Professor,Data Scientist,New York NY,2018-02-01 17:03:12,2021-10-13 16:26:00
+772,772,3,Financial Analyst,Truck Driver,Seattle WA,2020-02-29 02:49:08,2021-10-13 00:59:31
+773,773,4,Software Engineer II,Consultant,New York NY,2019-10-06 07:56:33,2021-07-09 23:39:35
+774,774,3,Associate Professor,Cashier,New York NY,2019-05-02 02:43:42,2022-07-24 17:50:39
+775,775,3,Information Systems Manager,Truck Driver,New York NY,2019-09-21 00:18:53,2022-11-09 21:55:54
+776,776,4,Senior Quality Engineer,Cashier,New York NY,2019-06-01 00:15:15,
+777,777,3,Software Engineer II,Software Engineer,San Francisco CA,2019-06-24 03:02:43,2021-11-22 01:29:10
+778,778,2,Dental Hygienist,Lawyer,New York NY,2019-05-05 03:36:28,2021-08-04 18:40:51
+779,779,2,Biostatistician IV,Truck Driver,Seattle WA,2018-12-25 22:08:22,2021-10-16 02:29:04
+780,780,2,Senior Sales Associate,Lawyer,New York NY,2018-09-25 13:23:28,2021-11-24 22:16:07
+781,781,4,Software Test Engineer III,Cashier,San Francisco CA,2020-12-29 18:31:27,
+782,782,1,Business Systems Development Analyst,Cashier,San Francisco CA,2019-12-08 18:53:21,2021-10-09 03:32:15
+783,783,2,Design Engineer,Data Scientist,Seattle WA,2019-10-06 06:57:20,2022-09-11 06:39:39
+784,784,1,Director of Sales,Data Scientist,Seattle WA,2020-03-19 03:40:55,
+785,785,1,Social Worker,Software Engineer,San Francisco CA,2018-08-25 18:32:20,2022-02-17 11:11:01
+786,786,1,Cost Accountant,Lawyer,San Francisco CA,2020-07-10 13:29:11,2022-06-30 03:20:39
+787,787,4,Design Engineer,Software Engineer,Seattle WA,2018-03-14 14:08:48,2022-11-27 16:54:26
+788,788,2,Quality Control Specialist,Salesperson,San Francisco CA,2018-06-01 13:54:07,
+789,789,4,Recruiting Manager,Salesperson,New York NY,2020-12-14 12:22:53,2022-04-13 09:25:22
+790,790,1,Nuclear Power Engineer,Consultant,Seattle WA,2019-06-18 09:55:25,2022-03-05 10:17:39
+791,791,4,Project Manager,Lawyer,San Francisco CA,2018-09-17 16:22:32,2021-08-22 03:43:02
+792,792,4,Assistant Media Planner,Data Scientist,New York NY,2020-11-03 16:20:41,
+793,793,4,Product Engineer,Cashier,Seattle WA,2019-07-25 21:30:54,2022-04-02 19:55:41
+794,794,4,Senior Sales Associate,Cashier,San Francisco CA,2019-01-12 03:17:07,2022-07-11 01:41:51
+795,795,4,Developer III,Consultant,Seattle WA,2019-03-28 07:48:44,2022-08-19 10:33:33
+796,796,1,Chemical Engineer,Software Engineer,Seattle WA,2019-11-02 19:21:16,2022-12-19 11:27:21
+797,797,2,Geological Engineer,Salesperson,New York NY,2020-01-02 12:19:42,
+798,798,1,Dental Hygienist,Truck Driver,San Francisco CA,2019-10-10 20:18:25,2022-09-01 19:18:33
+799,799,3,Pharmacist,Lawyer,Seattle WA,2020-03-15 11:44:04,2022-03-24 02:38:11
+800,800,1,Graphic Designer,Consultant,San Francisco CA,2018-11-19 12:28:53,2021-10-07 21:14:53
+801,801,3,Assistant Media Planner,Cashier,Seattle WA,2018-04-24 03:57:06,2022-09-21 00:11:45
+802,802,2,Media Manager III,Lawyer,New York NY,2019-01-31 22:06:50,
+803,803,3,Geologist I,Software Engineer,New York NY,2018-12-01 19:24:11,2022-06-26 16:24:58
+804,804,4,Help Desk Operator,Truck Driver,Seattle WA,2018-11-22 09:28:18,2022-04-13 14:32:57
+805,805,2,Professor,Truck Driver,Seattle WA,2020-06-27 11:22:14,2021-11-14 00:21:43
+806,806,4,Occupational Therapist,Truck Driver,San Francisco CA,2018-12-30 01:03:30,2021-07-31 12:18:26
+807,807,3,Paralegal,Truck Driver,San Francisco CA,2018-04-20 10:32:37,
+808,808,1,Environmental Specialist,Cashier,San Francisco CA,2018-03-17 04:32:03,2022-02-04 12:24:19
+809,809,4,Editor,Lawyer,New York NY,2018-01-11 16:59:01,
+810,810,3,Engineer I,Software Engineer,Seattle WA,2020-12-20 15:48:48,2022-07-07 22:03:18
+811,811,1,Staff Accountant I,Consultant,New York NY,2020-08-04 09:01:58,2022-12-14 18:55:36
+812,812,1,Dental Hygienist,Truck Driver,New York NY,2018-09-01 13:04:57,2022-06-10 15:17:39
+813,813,2,Structural Analysis Engineer,Consultant,Seattle WA,2018-11-01 11:40:25,2022-11-16 04:03:43
+814,814,1,Web Designer I,Cashier,Seattle WA,2019-11-16 20:02:54,
+815,815,1,Recruiter,Cashier,San Francisco CA,2019-05-03 21:36:21,
+816,816,2,Marketing Manager,Salesperson,Seattle WA,2019-03-29 04:15:05,2022-03-19 19:47:49
+817,817,2,Budget/Accounting Analyst I,Lawyer,New York NY,2019-12-29 14:25:35,2022-08-25 09:28:48
+818,818,3,Paralegal,Lawyer,Seattle WA,2020-06-15 21:58:49,2021-11-22 21:13:32
+819,819,4,Human Resources Assistant I,Salesperson,San Francisco CA,2020-10-19 10:33:06,
+820,820,3,Nuclear Power Engineer,Salesperson,New York NY,2018-02-11 07:46:49,2022-07-18 11:06:09
+821,821,4,Account Coordinator,Salesperson,New York NY,2019-01-06 07:58:06,2022-09-24 02:33:09
+822,822,1,Database Administrator II,Cashier,Seattle WA,2018-12-27 17:07:32,2021-12-11 12:24:48
+823,823,1,VP Accounting,Salesperson,Seattle WA,2019-01-31 07:15:41,2022-08-12 22:12:49
+824,824,2,Accounting Assistant IV,Lawyer,New York NY,2018-12-11 21:31:27,2022-05-27 02:12:03
+825,825,3,Systems Administrator III,Lawyer,New York NY,2020-12-31 04:15:47,2021-07-29 17:29:36
+826,826,4,Actuary,Truck Driver,New York NY,2020-01-12 04:42:04,2021-10-06 12:13:14
+827,827,2,Administrative Officer,Data Scientist,San Francisco CA,2019-04-10 17:32:20,2021-12-30 04:27:51
+828,828,2,Registered Nurse,Software Engineer,Seattle WA,2019-10-11 06:17:39,
+829,829,1,Senior Cost Accountant,Lawyer,New York NY,2020-02-16 18:54:19,2021-09-15 08:23:34
+830,830,4,Office Assistant III,Data Scientist,San Francisco CA,2020-12-21 15:07:17,2022-06-09 15:32:20
+831,831,1,Data Coordiator,Data Scientist,Seattle WA,2018-04-30 23:41:20,2021-10-11 08:59:32
+832,832,1,Assistant Professor,Truck Driver,New York NY,2018-03-09 15:16:41,2022-11-21 08:01:14
+833,833,2,Clinical Specialist,Truck Driver,Seattle WA,2018-10-10 14:07:01,2022-10-17 23:31:21
+834,834,3,Geological Engineer,Consultant,New York NY,2020-03-02 02:19:43,2022-03-12 00:06:32
+835,835,3,Administrative Officer,Cashier,San Francisco CA,2019-03-16 14:13:52,2021-06-25 17:30:06
+836,836,1,Senior Cost Accountant,Salesperson,New York NY,2020-11-24 22:09:21,2021-07-07 06:15:39
+837,837,1,Structural Analysis Engineer,Cashier,San Francisco CA,2019-03-08 21:06:29,2022-12-16 01:12:23
+838,838,2,Assistant Professor,Software Engineer,New York NY,2019-03-16 22:24:52,2021-06-24 12:05:52
+839,839,3,VP Accounting,Data Scientist,Seattle WA,2019-01-09 22:21:16,
+840,840,1,Structural Analysis Engineer,Cashier,Seattle WA,2020-05-15 08:37:23,
+841,841,4,Teacher,Truck Driver,San Francisco CA,2019-10-21 22:39:09,2022-06-27 23:35:14
+842,842,3,Clinical Specialist,Lawyer,New York NY,2020-08-24 07:16:07,2022-11-04 10:24:27
+843,843,1,Geologist III,Consultant,New York NY,2020-04-27 10:55:48,2022-09-10 19:48:51
+844,844,4,Senior Developer,Consultant,New York NY,2018-10-29 20:44:32,
+845,845,2,Structural Engineer,Cashier,New York NY,2020-06-18 00:45:41,2022-10-17 21:40:45
+846,846,4,Programmer Analyst IV,Software Engineer,San Francisco CA,2020-04-09 16:04:39,
+847,847,1,GIS Technical Architect,Data Scientist,San Francisco CA,2019-03-17 11:18:56,2021-11-24 07:30:00
+848,848,1,Structural Analysis Engineer,Software Engineer,San Francisco CA,2018-12-25 20:44:19,2022-06-14 20:22:02
+849,849,2,VP Sales,Truck Driver,New York NY,2019-04-11 02:30:56,2022-09-18 16:29:43
+850,850,4,Geological Engineer,Salesperson,San Francisco CA,2018-06-08 18:20:48,2022-07-10 13:19:20
+851,851,1,Software Engineer II,Salesperson,New York NY,2019-03-28 23:04:03,2022-06-07 10:00:38
+852,852,4,Accountant II,Truck Driver,New York NY,2019-10-16 04:15:25,2021-06-26 00:31:06
+853,853,1,Nuclear Power Engineer,Software Engineer,New York NY,2020-08-21 10:07:30,2022-04-04 23:07:46
+854,854,1,Information Systems Manager,Salesperson,Seattle WA,2020-05-06 11:11:45,2022-09-26 13:05:53
+855,855,4,Software Test Engineer IV,Lawyer,New York NY,2020-03-10 14:18:11,2022-09-24 18:45:01
+856,856,2,Design Engineer,Lawyer,San Francisco CA,2019-05-25 19:44:00,2022-07-24 04:47:35
+857,857,4,Electrical Engineer,Lawyer,New York NY,2018-07-28 22:23:47,2022-07-02 03:56:13
+858,858,4,Design Engineer,Cashier,San Francisco CA,2018-11-14 10:48:25,
+859,859,3,Environmental Tech,Lawyer,New York NY,2019-02-08 21:58:30,2021-07-26 03:02:03
+860,860,3,Tax Accountant,Cashier,San Francisco CA,2018-04-17 07:35:24,2021-10-10 16:41:47
+861,861,2,Quality Engineer,Salesperson,San Francisco CA,2018-11-22 10:56:20,2022-02-18 17:33:20
+862,862,4,Cost Accountant,Consultant,Seattle WA,2020-01-30 20:59:39,2021-12-14 16:29:18
+863,863,2,Geologist III,Lawyer,New York NY,2019-09-04 23:57:47,2022-11-28 05:29:10
+864,864,3,Environmental Tech,Lawyer,New York NY,2018-02-23 23:17:57,2022-04-17 16:51:33
+865,865,4,Senior Cost Accountant,Salesperson,Seattle WA,2020-07-25 13:30:32,2022-06-21 07:40:21
+866,866,2,Human Resources Assistant IV,Cashier,New York NY,2019-12-17 16:24:58,2022-12-14 21:51:55
+867,867,4,Director of Sales,Truck Driver,New York NY,2019-08-09 03:17:11,
+868,868,1,Sales Associate,Software Engineer,Seattle WA,2019-09-05 00:22:44,2022-09-13 10:11:50
+869,869,4,Environmental Tech,Salesperson,San Francisco CA,2020-06-22 14:00:19,2021-07-12 20:17:47
+870,870,2,GIS Technical Architect,Consultant,Seattle WA,2018-11-16 16:15:29,2021-08-05 11:10:52
+871,871,2,Media Manager II,Consultant,New York NY,2018-03-18 12:16:38,2022-09-27 18:02:42
+872,872,4,Geological Engineer,Salesperson,New York NY,2018-02-20 23:32:57,2022-11-02 02:54:33
+873,873,2,Software Consultant,Cashier,New York NY,2018-12-28 03:32:05,2021-11-15 16:29:40
+874,874,3,Assistant Professor,Consultant,San Francisco CA,2019-04-08 17:58:29,2022-10-28 18:24:14
+875,875,3,Quality Engineer,Lawyer,New York NY,2019-06-18 18:36:18,2022-01-29 10:27:25
+876,876,3,Safety Technician III,Salesperson,New York NY,2018-12-03 05:33:04,
+877,877,1,Human Resources Manager,Data Scientist,New York NY,2018-02-04 17:16:07,2021-08-22 19:59:45
+878,878,2,Programmer Analyst II,Cashier,San Francisco CA,2020-06-15 13:16:50,2022-07-09 18:01:42
+879,879,2,Graphic Designer,Lawyer,San Francisco CA,2018-07-21 22:51:54,
+880,880,3,Staff Accountant II,Truck Driver,Seattle WA,2020-09-27 09:16:08,2021-08-04 19:53:04
+881,881,3,Occupational Therapist,Truck Driver,New York NY,2019-02-04 19:11:11,2022-03-04 08:29:50
+882,882,4,Financial Advisor,Salesperson,San Francisco CA,2018-04-29 23:53:27,2022-12-23 14:10:44
+883,883,1,GIS Technical Architect,Cashier,New York NY,2020-08-23 12:19:54,2022-05-25 21:54:27
+884,884,4,Teacher,Consultant,San Francisco CA,2018-04-16 13:36:50,2022-10-07 10:05:00
+885,885,2,Systems Administrator IV,Salesperson,San Francisco CA,2020-05-27 19:58:47,2022-11-09 13:15:49
+886,886,2,Desktop Support Technician,Software Engineer,San Francisco CA,2018-02-08 17:39:16,
+887,887,2,Senior Developer,Truck Driver,New York NY,2018-03-18 21:21:35,2022-07-09 04:23:03
+888,888,1,Research Associate,Salesperson,Seattle WA,2020-01-07 08:05:12,2022-12-25 01:30:04
+889,889,3,Systems Administrator IV,Truck Driver,New York NY,2020-12-03 09:33:20,2022-03-28 03:25:21
+890,890,1,Sales Associate,Cashier,New York NY,2020-06-15 04:50:00,2021-06-14 15:42:53
+891,891,1,Programmer Analyst I,Salesperson,San Francisco CA,2020-08-03 22:03:20,2021-06-19 18:00:08
+892,892,2,Quality Engineer,Software Engineer,Seattle WA,2019-02-09 13:37:12,2022-03-10 03:08:02
+893,893,2,GIS Technical Architect,Cashier,Seattle WA,2020-01-29 17:04:02,2021-12-28 10:03:19
+894,894,3,VP Accounting,Data Scientist,Seattle WA,2019-09-11 16:01:23,2021-09-22 19:28:17
+895,895,2,Web Designer I,Truck Driver,New York NY,2019-06-05 00:50:09,
+896,896,4,Senior Financial Analyst,Cashier,San Francisco CA,2020-02-04 23:13:11,
+897,897,1,Analyst Programmer,Cashier,New York NY,2018-10-26 00:06:02,
+898,898,2,Graphic Designer,Software Engineer,Seattle WA,2018-06-29 21:50:29,2021-11-06 16:27:58
+899,899,1,Research Associate,Lawyer,San Francisco CA,2018-04-18 11:01:30,
+900,900,4,Research Nurse,Lawyer,Seattle WA,2018-10-03 18:49:30,2022-06-10 10:28:45
+901,901,3,Web Designer I,Cashier,Seattle WA,2018-06-16 09:41:34,2021-11-13 21:12:04
+902,902,1,Accounting Assistant II,Data Scientist,New York NY,2018-03-03 02:51:19,2022-05-09 13:12:50
+903,903,2,GIS Technical Architect,Cashier,New York NY,2019-04-23 05:01:01,2021-07-20 20:28:17
+904,904,3,Associate Professor,Lawyer,Seattle WA,2020-01-24 16:10:27,2022-11-13 04:12:00
+905,905,4,Design Engineer,Truck Driver,Seattle WA,2020-08-14 20:27:02,2021-12-06 12:09:00
+906,906,4,Quality Engineer,Data Scientist,New York NY,2020-08-19 14:30:47,
+907,907,3,Product Engineer,Salesperson,Seattle WA,2019-05-14 04:58:11,2022-11-09 21:32:22
+908,908,4,Physical Therapy Assistant,Consultant,New York NY,2020-02-27 03:34:30,2021-12-17 13:02:11
+909,909,3,Senior Editor,Software Engineer,New York NY,2019-10-06 07:48:56,2021-08-14 12:13:50
+910,910,2,Desktop Support Technician,Software Engineer,San Francisco CA,2018-04-24 02:58:31,2022-10-22 09:11:25
+911,911,1,Structural Analysis Engineer,Software Engineer,New York NY,2019-06-12 21:33:51,2021-12-29 21:10:17
+912,912,3,Recruiting Manager,Cashier,San Francisco CA,2018-01-11 17:31:17,
+913,913,1,Accountant III,Cashier,New York NY,2020-03-20 18:43:17,2022-05-01 19:32:29
+914,914,1,Information Systems Manager,Truck Driver,New York NY,2019-03-14 15:18:22,2022-07-22 18:36:57
+915,915,2,Safety Technician III,Lawyer,Seattle WA,2019-03-19 04:38:18,
+916,916,3,Help Desk Technician,Data Scientist,San Francisco CA,2018-04-24 03:54:37,2021-10-24 20:12:22
+917,917,4,Librarian,Data Scientist,San Francisco CA,2020-06-29 23:25:27,
+918,918,2,Technical Writer,Lawyer,Seattle WA,2019-10-17 15:57:26,2022-01-09 12:03:25
+919,919,3,Help Desk Technician,Software Engineer,New York NY,2018-06-27 23:59:24,2021-06-10 03:37:56
+920,920,1,Dental Hygienist,Data Scientist,Seattle WA,2019-10-11 21:11:48,2021-09-18 01:26:43
+921,921,1,Software Test Engineer III,Software Engineer,New York NY,2020-11-03 14:26:22,
+922,922,1,Teacher,Salesperson,Seattle WA,2019-03-16 20:29:19,2022-10-09 21:49:48
+923,923,1,Sales Representative,Cashier,New York NY,2018-08-22 18:06:43,2022-09-27 11:43:41
+924,924,4,Operator,Consultant,San Francisco CA,2020-07-22 11:16:06,2021-08-09 12:42:04
+925,925,2,Quality Control Specialist,Lawyer,Seattle WA,2018-06-27 05:05:49,2022-05-30 23:24:01
+926,926,3,Staff Accountant III,Truck Driver,Seattle WA,2018-08-22 18:33:00,2022-09-02 02:45:30
+927,927,3,VP Accounting,Salesperson,Seattle WA,2019-05-04 16:25:40,2022-11-18 13:45:00
+928,928,1,VP Sales,Salesperson,San Francisco CA,2018-05-20 10:36:46,2021-06-20 05:54:12
+929,929,1,Social Worker,Salesperson,New York NY,2018-09-05 03:20:46,2022-10-20 21:07:25
+930,930,3,Chief Design Engineer,Data Scientist,New York NY,2020-09-07 17:48:52,2022-02-18 16:16:55
+931,931,4,Tax Accountant,Consultant,New York NY,2019-06-06 07:28:47,
+932,932,2,Mechanical Systems Engineer,Software Engineer,San Francisco CA,2019-02-15 22:34:39,2022-07-09 13:27:09
+933,933,3,Analyst Programmer,Truck Driver,Seattle WA,2020-01-01 02:58:19,2022-03-11 00:41:07
+934,934,4,Safety Technician I,Consultant,Seattle WA,2020-06-22 21:52:22,
+935,935,1,Editor,Software Engineer,Seattle WA,2020-10-18 02:38:02,2021-06-07 20:31:45
+936,936,1,Staff Scientist,Lawyer,San Francisco CA,2019-09-07 09:29:58,2022-08-25 12:48:58
+937,937,4,Dental Hygienist,Data Scientist,Seattle WA,2020-10-31 23:50:53,2022-07-23 17:17:01
+938,938,4,Quality Engineer,Consultant,Seattle WA,2019-03-06 11:06:47,
+939,939,1,Associate Professor,Data Scientist,New York NY,2020-08-10 14:33:08,2022-03-19 12:56:14
+940,940,4,Engineer IV,Data Scientist,Seattle WA,2020-03-25 15:15:10,2022-05-21 06:24:54
+941,941,4,Marketing Assistant,Lawyer,New York NY,2018-05-16 22:04:44,2022-12-19 09:34:39
+942,942,4,Automation Specialist IV,Lawyer,San Francisco CA,2020-07-17 17:01:42,2022-07-17 22:41:49
+943,943,4,Clinical Specialist,Data Scientist,New York NY,2020-10-01 13:17:54,2021-10-01 04:03:41
+944,944,1,Dental Hygienist,Cashier,Seattle WA,2020-10-22 10:08:22,2021-07-14 18:22:26
+945,945,4,Internal Auditor,Software Engineer,San Francisco CA,2018-02-16 04:10:43,
+946,946,2,Senior Editor,Salesperson,Seattle WA,2020-10-23 16:34:28,2022-02-13 13:51:36
+947,947,3,VP Accounting,Truck Driver,New York NY,2019-01-31 09:52:42,2021-08-16 08:50:40
+948,948,2,Financial Advisor,Data Scientist,Seattle WA,2018-03-30 06:35:39,2022-11-13 10:28:10
+949,949,4,Recruiter,Cashier,Seattle WA,2019-09-16 18:38:10,
+950,950,1,Senior Sales Associate,Salesperson,San Francisco CA,2019-06-29 15:30:29,
+951,951,4,Biostatistician IV,Salesperson,Seattle WA,2020-02-24 08:58:40,2022-02-28 05:50:42
+952,952,4,Accounting Assistant IV,Data Scientist,Seattle WA,2018-06-28 15:56:04,2021-08-16 09:56:00
+953,953,1,Health Coach I,Cashier,San Francisco CA,2019-11-16 20:34:40,2022-03-02 06:15:10
+954,954,2,Financial Advisor,Cashier,New York NY,2020-04-28 07:48:49,
+955,955,3,Payment Adjustment Coordinator,Data Scientist,San Francisco CA,2018-11-30 04:03:23,2022-12-25 02:32:02
+956,956,4,Automation Specialist III,Data Scientist,New York NY,2020-05-25 18:49:41,
+957,957,3,Graphic Designer,Cashier,Seattle WA,2019-10-05 10:16:08,2022-03-21 01:16:19
+958,958,3,Assistant Media Planner,Truck Driver,New York NY,2019-06-02 02:08:52,2021-06-17 11:11:53
+959,959,1,Biostatistician I,Lawyer,Seattle WA,2019-02-15 10:53:25,
+960,960,2,Senior Editor,Consultant,New York NY,2019-05-22 22:09:17,2022-04-20 22:23:15
+961,961,3,Statistician IV,Consultant,New York NY,2020-06-10 08:31:43,2022-06-15 17:10:18
+962,962,1,Editor,Software Engineer,Seattle WA,2018-03-31 14:21:30,
+963,963,4,Dental Hygienist,Truck Driver,New York NY,2020-10-27 03:13:56,2022-06-02 14:57:28
+964,964,1,Staff Scientist,Salesperson,San Francisco CA,2018-09-25 11:40:43,2021-12-24 14:27:18
+965,965,4,GIS Technical Architect,Salesperson,San Francisco CA,2018-08-20 23:07:50,
+966,966,1,Account Representative I,Lawyer,San Francisco CA,2020-12-04 02:08:17,
+967,967,2,Librarian,Data Scientist,New York NY,2020-03-25 00:12:10,
+968,968,1,Automation Specialist III,Cashier,New York NY,2018-09-09 12:09:52,
+969,969,4,Geologist III,Consultant,San Francisco CA,2019-08-23 04:04:54,2022-04-19 13:30:11
+970,970,1,Programmer Analyst IV,Software Engineer,New York NY,2019-03-14 06:29:37,2022-07-31 16:53:43
+971,971,4,Senior Quality Engineer,Software Engineer,San Francisco CA,2019-09-08 11:25:25,
+972,972,4,Financial Analyst,Data Scientist,San Francisco CA,2018-07-09 01:59:10,2022-10-28 04:21:04
+973,973,1,Compensation Analyst,Cashier,San Francisco CA,2018-08-14 01:58:51,2022-04-28 03:58:52
+974,974,4,Senior Sales Associate,Software Engineer,San Francisco CA,2018-06-11 14:06:49,2021-12-01 08:10:32
+975,975,4,Database Administrator III,Truck Driver,San Francisco CA,2020-04-14 10:17:15,2022-04-10 07:21:27
+976,976,1,Analog Circuit Design manager,Cashier,San Francisco CA,2020-01-15 03:04:38,
+977,977,2,General Manager,Software Engineer,Seattle WA,2018-07-30 23:15:10,2022-03-19 04:29:38
+978,978,1,Account Executive,Lawyer,San Francisco CA,2018-02-25 20:08:20,2022-03-19 02:03:42
+979,979,1,Clinical Specialist,Lawyer,San Francisco CA,2020-09-06 10:31:27,2021-07-12 17:30:19
+980,980,4,Statistician II,Lawyer,New York NY,2020-02-14 16:17:49,2022-04-22 15:54:02
+981,981,1,Operator,Lawyer,New York NY,2020-09-04 13:48:17,2021-12-09 03:12:01
+982,982,1,Payment Adjustment Coordinator,Consultant,Seattle WA,2020-01-24 18:47:50,2021-11-06 11:17:27
+983,983,4,Environmental Tech,Consultant,New York NY,2018-06-12 10:15:05,2021-07-11 13:09:45
+984,984,2,Professor,Cashier,San Francisco CA,2019-06-08 01:34:11,2021-10-29 18:52:05
+985,985,1,Clinical Specialist,Lawyer,San Francisco CA,2020-07-16 22:13:48,2021-09-15 15:31:33
+986,986,3,VP Quality Control,Data Scientist,New York NY,2020-06-15 20:35:43,
+987,987,1,Account Representative I,Data Scientist,San Francisco CA,2020-12-13 20:52:31,2022-01-03 20:23:04
+988,988,2,Editor,Salesperson,New York NY,2019-08-27 03:27:59,2021-07-20 15:06:19
+989,989,4,Database Administrator IV,Cashier,San Francisco CA,2020-11-06 00:19:37,
+990,990,3,Analog Circuit Design manager,Lawyer,San Francisco CA,2019-05-11 03:34:49,2021-06-23 20:34:51
+991,991,2,GIS Technical Architect,Data Scientist,San Francisco CA,2019-08-06 09:29:26,2022-04-08 02:40:43
+992,992,2,Help Desk Operator,Consultant,New York NY,2020-03-28 06:43:56,
+993,993,4,Systems Administrator II,Consultant,New York NY,2019-12-05 05:08:12,2022-10-04 18:31:29
+994,994,2,Statistician I,Consultant,Seattle WA,2018-05-10 21:54:28,2021-09-20 20:16:51
+995,995,1,Engineer IV,Cashier,Seattle WA,2018-04-15 09:24:43,2021-12-21 21:52:27
+996,996,4,VP Accounting,Cashier,Seattle WA,2020-06-27 07:36:48,2021-06-09 13:30:20
+997,997,2,Human Resources Manager,Software Engineer,San Francisco CA,2018-07-11 05:23:51,2021-06-17 07:44:40
+998,998,3,VP Sales,Software Engineer,Seattle WA,2018-09-11 17:36:19,
+999,999,2,Assistant Manager,Data Scientist,San Francisco CA,2019-04-16 04:26:32,
+1000,1000,3,VP Marketing,Data Scientist,San Francisco CA,2019-01-22 02:04:30,2021-12-03 21:27:28

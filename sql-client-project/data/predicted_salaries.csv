@@ -1,0 +1,421 @@
+﻿company_id,mapped_role,msa,year,salary
+1,Software Engineer,New York NY,2018,110000
+1,Salesperson,New York NY,2018,70000
+1,Data Scientist,New York NY,2018,100000
+1,Consultant,New York NY,2018,80000
+1,Lawyer,New York NY,2018,200000
+1,Truck Driver,New York NY,2018,70000
+1,Cashier,New York NY,2018,50000
+1,Software Engineer,New York NY,2019,112200
+1,Salesperson,New York NY,2019,71400
+1,Data Scientist,New York NY,2019,102000
+1,Consultant,New York NY,2019,81600
+1,Lawyer,New York NY,2019,204000
+1,Truck Driver,New York NY,2019,71400
+1,Cashier,New York NY,2019,51000
+1,Software Engineer,New York NY,2020,114444
+1,Salesperson,New York NY,2020,72828
+1,Data Scientist,New York NY,2020,104040
+1,Consultant,New York NY,2020,83232
+1,Lawyer,New York NY,2020,208080
+1,Truck Driver,New York NY,2020,72828
+1,Cashier,New York NY,2020,52020
+1,Software Engineer,New York NY,2021,116732.88
+1,Salesperson,New York NY,2021,74284.56
+1,Data Scientist,New York NY,2021,106120.8
+1,Consultant,New York NY,2021,84896.64
+1,Lawyer,New York NY,2021,212241.6
+1,Truck Driver,New York NY,2021,74284.56
+1,Cashier,New York NY,2021,53060.4
+1,Software Engineer,New York NY,2022,119067.5376
+1,Salesperson,New York NY,2022,75770.2512
+1,Data Scientist,New York NY,2022,108243.216
+1,Consultant,New York NY,2022,86594.5728
+1,Lawyer,New York NY,2022,216486.432
+1,Truck Driver,New York NY,2022,75770.2512
+1,Cashier,New York NY,2022,54121.608
+1,Software Engineer,Seattle WA,2018,90000
+1,Salesperson,Seattle WA,2018,60000
+1,Data Scientist,Seattle WA,2018,90000
+1,Consultant,Seattle WA,2018,70000
+1,Lawyer,Seattle WA,2018,160000
+1,Truck Driver,Seattle WA,2018,70000
+1,Cashier,Seattle WA,2018,50000
+1,Software Engineer,Seattle WA,2019,91800
+1,Salesperson,Seattle WA,2019,61200
+1,Data Scientist,Seattle WA,2019,91800
+1,Consultant,Seattle WA,2019,71400
+1,Lawyer,Seattle WA,2019,163200
+1,Truck Driver,Seattle WA,2019,71400
+1,Cashier,Seattle WA,2019,51000
+1,Software Engineer,Seattle WA,2020,93636
+1,Salesperson,Seattle WA,2020,62424
+1,Data Scientist,Seattle WA,2020,93636
+1,Consultant,Seattle WA,2020,72828
+1,Lawyer,Seattle WA,2020,166464
+1,Truck Driver,Seattle WA,2020,72828
+1,Cashier,Seattle WA,2020,52020
+1,Software Engineer,Seattle WA,2021,95508.72
+1,Salesperson,Seattle WA,2021,63672.48
+1,Data Scientist,Seattle WA,2021,95508.72
+1,Consultant,Seattle WA,2021,74284.56
+1,Lawyer,Seattle WA,2021,169793.28
+1,Truck Driver,Seattle WA,2021,74284.56
+1,Cashier,Seattle WA,2021,53060.4
+1,Software Engineer,Seattle WA,2022,97418.8944
+1,Salesperson,Seattle WA,2022,64945.9296
+1,Data Scientist,Seattle WA,2022,97418.8944
+1,Consultant,Seattle WA,2022,75770.2512
+1,Lawyer,Seattle WA,2022,173189.1456
+1,Truck Driver,Seattle WA,2022,75770.2512
+1,Cashier,Seattle WA,2022,54121.608
+1,Software Engineer,San Francisco CA,2018,120000
+1,Salesperson,San Francisco CA,2018,80000
+1,Data Scientist,San Francisco CA,2018,110000
+1,Consultant,San Francisco CA,2018,80000
+1,Lawyer,San Francisco CA,2018,180000
+1,Truck Driver,San Francisco CA,2018,80000
+1,Cashier,San Francisco CA,2018,60000
+1,Software Engineer,San Francisco CA,2019,122400
+1,Salesperson,San Francisco CA,2019,81600
+1,Data Scientist,San Francisco CA,2019,112200
+1,Consultant,San Francisco CA,2019,81600
+1,Lawyer,San Francisco CA,2019,183600
+1,Truck Driver,San Francisco CA,2019,81600
+1,Cashier,San Francisco CA,2019,61200
+1,Software Engineer,San Francisco CA,2020,124848
+1,Salesperson,San Francisco CA,2020,83232
+1,Data Scientist,San Francisco CA,2020,114444
+1,Consultant,San Francisco CA,2020,83232
+1,Lawyer,San Francisco CA,2020,187272
+1,Truck Driver,San Francisco CA,2020,83232
+1,Cashier,San Francisco CA,2020,62424
+1,Software Engineer,San Francisco CA,2021,127344.96
+1,Salesperson,San Francisco CA,2021,84896.64
+1,Data Scientist,San Francisco CA,2021,116732.88
+1,Consultant,San Francisco CA,2021,84896.64
+1,Lawyer,San Francisco CA,2021,191017.44
+1,Truck Driver,San Francisco CA,2021,84896.64
+1,Cashier,San Francisco CA,2021,63672.48
+1,Software Engineer,San Francisco CA,2022,129891.8592
+1,Salesperson,San Francisco CA,2022,86594.5728
+1,Data Scientist,San Francisco CA,2022,119067.5376
+1,Consultant,San Francisco CA,2022,86594.5728
+1,Lawyer,San Francisco CA,2022,194837.7888
+1,Truck Driver,San Francisco CA,2022,86594.5728
+1,Cashier,San Francisco CA,2022,64945.9296
+2,Software Engineer,New York NY,2018,80000
+2,Salesperson,New York NY,2018,60000
+2,Data Scientist,New York NY,2018,80000
+2,Consultant,New York NY,2018,70000
+2,Lawyer,New York NY,2018,180000
+2,Truck Driver,New York NY,2018,50000
+2,Cashier,New York NY,2018,50000
+2,Software Engineer,New York NY,2019,81600
+2,Salesperson,New York NY,2019,61200
+2,Data Scientist,New York NY,2019,81600
+2,Consultant,New York NY,2019,71400
+2,Lawyer,New York NY,2019,183600
+2,Truck Driver,New York NY,2019,51000
+2,Cashier,New York NY,2019,51000
+2,Software Engineer,New York NY,2020,83232
+2,Salesperson,New York NY,2020,62424
+2,Data Scientist,New York NY,2020,83232
+2,Consultant,New York NY,2020,72828
+2,Lawyer,New York NY,2020,187272
+2,Truck Driver,New York NY,2020,52020
+2,Cashier,New York NY,2020,52020
+2,Software Engineer,New York NY,2021,84896.64
+2,Salesperson,New York NY,2021,63672.48
+2,Data Scientist,New York NY,2021,84896.64
+2,Consultant,New York NY,2021,74284.56
+2,Lawyer,New York NY,2021,191017.44
+2,Truck Driver,New York NY,2021,53060.4
+2,Cashier,New York NY,2021,53060.4
+2,Software Engineer,New York NY,2022,86594.5728
+2,Salesperson,New York NY,2022,64945.9296
+2,Data Scientist,New York NY,2022,86594.5728
+2,Consultant,New York NY,2022,75770.2512
+2,Lawyer,New York NY,2022,194837.7888
+2,Truck Driver,New York NY,2022,54121.608
+2,Cashier,New York NY,2022,54121.608
+2,Software Engineer,Seattle WA,2018,80000
+2,Salesperson,Seattle WA,2018,60000
+2,Data Scientist,Seattle WA,2018,80000
+2,Consultant,Seattle WA,2018,70000
+2,Lawyer,Seattle WA,2018,180000
+2,Truck Driver,Seattle WA,2018,50000
+2,Cashier,Seattle WA,2018,50000
+2,Software Engineer,Seattle WA,2019,81600
+2,Salesperson,Seattle WA,2019,61200
+2,Data Scientist,Seattle WA,2019,81600
+2,Consultant,Seattle WA,2019,71400
+2,Lawyer,Seattle WA,2019,183600
+2,Truck Driver,Seattle WA,2019,51000
+2,Cashier,Seattle WA,2019,51000
+2,Software Engineer,Seattle WA,2020,83232
+2,Salesperson,Seattle WA,2020,62424
+2,Data Scientist,Seattle WA,2020,83232
+2,Consultant,Seattle WA,2020,72828
+2,Lawyer,Seattle WA,2020,187272
+2,Truck Driver,Seattle WA,2020,52020
+2,Cashier,Seattle WA,2020,52020
+2,Software Engineer,Seattle WA,2021,84896.64
+2,Salesperson,Seattle WA,2021,63672.48
+2,Data Scientist,Seattle WA,2021,84896.64
+2,Consultant,Seattle WA,2021,74284.56
+2,Lawyer,Seattle WA,2021,191017.44
+2,Truck Driver,Seattle WA,2021,53060.4
+2,Cashier,Seattle WA,2021,53060.4
+2,Software Engineer,Seattle WA,2022,86594.5728
+2,Salesperson,Seattle WA,2022,64945.9296
+2,Data Scientist,Seattle WA,2022,86594.5728
+2,Consultant,Seattle WA,2022,75770.2512
+2,Lawyer,Seattle WA,2022,194837.7888
+2,Truck Driver,Seattle WA,2022,54121.608
+2,Cashier,Seattle WA,2022,54121.608
+2,Software Engineer,San Francisco CA,2018,120000
+2,Salesperson,San Francisco CA,2018,80000
+2,Data Scientist,San Francisco CA,2018,110000
+2,Consultant,San Francisco CA,2018,80000
+2,Lawyer,San Francisco CA,2018,180000
+2,Truck Driver,San Francisco CA,2018,80000
+2,Cashier,San Francisco CA,2018,60000
+2,Software Engineer,San Francisco CA,2019,122400
+2,Salesperson,San Francisco CA,2019,81600
+2,Data Scientist,San Francisco CA,2019,112200
+2,Consultant,San Francisco CA,2019,81600
+2,Lawyer,San Francisco CA,2019,183600
+2,Truck Driver,San Francisco CA,2019,81600
+2,Cashier,San Francisco CA,2019,61200
+2,Software Engineer,San Francisco CA,2020,124848
+2,Salesperson,San Francisco CA,2020,83232
+2,Data Scientist,San Francisco CA,2020,114444
+2,Consultant,San Francisco CA,2020,83232
+2,Lawyer,San Francisco CA,2020,187272
+2,Truck Driver,San Francisco CA,2020,83232
+2,Cashier,San Francisco CA,2020,62424
+2,Software Engineer,San Francisco CA,2021,127344.96
+2,Salesperson,San Francisco CA,2021,84896.64
+2,Data Scientist,San Francisco CA,2021,116732.88
+2,Consultant,San Francisco CA,2021,84896.64
+2,Lawyer,San Francisco CA,2021,191017.44
+2,Truck Driver,San Francisco CA,2021,84896.64
+2,Cashier,San Francisco CA,2021,63672.48
+2,Software Engineer,San Francisco CA,2022,129891.8592
+2,Salesperson,San Francisco CA,2022,86594.5728
+2,Data Scientist,San Francisco CA,2022,119067.5376
+2,Consultant,San Francisco CA,2022,86594.5728
+2,Lawyer,San Francisco CA,2022,194837.7888
+2,Truck Driver,San Francisco CA,2022,86594.5728
+2,Cashier,San Francisco CA,2022,64945.9296
+3,Software Engineer,New York NY,2018,110000
+3,Salesperson,New York NY,2018,70000
+3,Data Scientist,New York NY,2018,100000
+3,Consultant,New York NY,2018,80000
+3,Lawyer,New York NY,2018,200000
+3,Truck Driver,New York NY,2018,70000
+3,Cashier,New York NY,2018,50000
+3,Software Engineer,New York NY,2019,112200
+3,Salesperson,New York NY,2019,71400
+3,Data Scientist,New York NY,2019,102000
+3,Consultant,New York NY,2019,81600
+3,Lawyer,New York NY,2019,204000
+3,Truck Driver,New York NY,2019,71400
+3,Cashier,New York NY,2019,51000
+3,Software Engineer,New York NY,2020,114444
+3,Salesperson,New York NY,2020,72828
+3,Data Scientist,New York NY,2020,104040
+3,Consultant,New York NY,2020,83232
+3,Lawyer,New York NY,2020,208080
+3,Truck Driver,New York NY,2020,72828
+3,Cashier,New York NY,2020,52020
+3,Software Engineer,New York NY,2021,116732.88
+3,Salesperson,New York NY,2021,74284.56
+3,Data Scientist,New York NY,2021,106120.8
+3,Consultant,New York NY,2021,84896.64
+3,Lawyer,New York NY,2021,212241.6
+3,Truck Driver,New York NY,2021,74284.56
+3,Cashier,New York NY,2021,53060.4
+3,Software Engineer,New York NY,2022,119067.5376
+3,Salesperson,New York NY,2022,75770.2512
+3,Data Scientist,New York NY,2022,108243.216
+3,Consultant,New York NY,2022,86594.5728
+3,Lawyer,New York NY,2022,216486.432
+3,Truck Driver,New York NY,2022,75770.2512
+3,Cashier,New York NY,2022,54121.608
+3,Software Engineer,Seattle WA,2018,90000
+3,Salesperson,Seattle WA,2018,60000
+3,Data Scientist,Seattle WA,2018,90000
+3,Consultant,Seattle WA,2018,70000
+3,Lawyer,Seattle WA,2018,160000
+3,Truck Driver,Seattle WA,2018,70000
+3,Cashier,Seattle WA,2018,50000
+3,Software Engineer,Seattle WA,2019,91800
+3,Salesperson,Seattle WA,2019,61200
+3,Data Scientist,Seattle WA,2019,91800
+3,Consultant,Seattle WA,2019,71400
+3,Lawyer,Seattle WA,2019,163200
+3,Truck Driver,Seattle WA,2019,71400
+3,Cashier,Seattle WA,2019,51000
+3,Software Engineer,Seattle WA,2020,93636
+3,Salesperson,Seattle WA,2020,62424
+3,Data Scientist,Seattle WA,2020,93636
+3,Consultant,Seattle WA,2020,72828
+3,Lawyer,Seattle WA,2020,166464
+3,Truck Driver,Seattle WA,2020,72828
+3,Cashier,Seattle WA,2020,52020
+3,Software Engineer,Seattle WA,2021,95508.72
+3,Salesperson,Seattle WA,2021,63672.48
+3,Data Scientist,Seattle WA,2021,95508.72
+3,Consultant,Seattle WA,2021,74284.56
+3,Lawyer,Seattle WA,2021,169793.28
+3,Truck Driver,Seattle WA,2021,74284.56
+3,Cashier,Seattle WA,2021,53060.4
+3,Software Engineer,Seattle WA,2022,97418.8944
+3,Salesperson,Seattle WA,2022,64945.9296
+3,Data Scientist,Seattle WA,2022,97418.8944
+3,Consultant,Seattle WA,2022,75770.2512
+3,Lawyer,Seattle WA,2022,173189.1456
+3,Truck Driver,Seattle WA,2022,75770.2512
+3,Cashier,Seattle WA,2022,54121.608
+3,Software Engineer,San Francisco CA,2018,120000
+3,Salesperson,San Francisco CA,2018,80000
+3,Data Scientist,San Francisco CA,2018,110000
+3,Consultant,San Francisco CA,2018,80000
+3,Lawyer,San Francisco CA,2018,180000
+3,Truck Driver,San Francisco CA,2018,80000
+3,Cashier,San Francisco CA,2018,60000
+3,Software Engineer,San Francisco CA,2019,122400
+3,Salesperson,San Francisco CA,2019,81600
+3,Data Scientist,San Francisco CA,2019,112200
+3,Consultant,San Francisco CA,2019,81600
+3,Lawyer,San Francisco CA,2019,183600
+3,Truck Driver,San Francisco CA,2019,81600
+3,Cashier,San Francisco CA,2019,61200
+3,Software Engineer,San Francisco CA,2020,124848
+3,Salesperson,San Francisco CA,2020,83232
+3,Data Scientist,San Francisco CA,2020,114444
+3,Consultant,San Francisco CA,2020,83232
+3,Lawyer,San Francisco CA,2020,187272
+3,Truck Driver,San Francisco CA,2020,83232
+3,Cashier,San Francisco CA,2020,62424
+3,Software Engineer,San Francisco CA,2021,127344.96
+3,Salesperson,San Francisco CA,2021,84896.64
+3,Data Scientist,San Francisco CA,2021,116732.88
+3,Consultant,San Francisco CA,2021,84896.64
+3,Lawyer,San Francisco CA,2021,191017.44
+3,Truck Driver,San Francisco CA,2021,84896.64
+3,Cashier,San Francisco CA,2021,63672.48
+3,Software Engineer,San Francisco CA,2022,129891.8592
+3,Salesperson,San Francisco CA,2022,86594.5728
+3,Data Scientist,San Francisco CA,2022,119067.5376
+3,Consultant,San Francisco CA,2022,86594.5728
+3,Lawyer,San Francisco CA,2022,194837.7888
+3,Truck Driver,San Francisco CA,2022,86594.5728
+3,Cashier,San Francisco CA,2022,64945.9296
+4,Software Engineer,New York NY,2018,80000
+4,Salesperson,New York NY,2018,60000
+4,Data Scientist,New York NY,2018,80000
+4,Consultant,New York NY,2018,70000
+4,Lawyer,New York NY,2018,180000
+4,Truck Driver,New York NY,2018,50000
+4,Cashier,New York NY,2018,50000
+4,Software Engineer,New York NY,2019,81600
+4,Salesperson,New York NY,2019,61200
+4,Data Scientist,New York NY,2019,81600
+4,Consultant,New York NY,2019,71400
+4,Lawyer,New York NY,2019,183600
+4,Truck Driver,New York NY,2019,51000
+4,Cashier,New York NY,2019,51000
+4,Software Engineer,New York NY,2020,83232
+4,Salesperson,New York NY,2020,62424
+4,Data Scientist,New York NY,2020,83232
+4,Consultant,New York NY,2020,72828
+4,Lawyer,New York NY,2020,187272
+4,Truck Driver,New York NY,2020,52020
+4,Cashier,New York NY,2020,52020
+4,Software Engineer,New York NY,2021,84896.64
+4,Salesperson,New York NY,2021,63672.48
+4,Data Scientist,New York NY,2021,84896.64
+4,Consultant,New York NY,2021,74284.56
+4,Lawyer,New York NY,2021,191017.44
+4,Truck Driver,New York NY,2021,53060.4
+4,Cashier,New York NY,2021,53060.4
+4,Software Engineer,New York NY,2022,86594.5728
+4,Salesperson,New York NY,2022,64945.9296
+4,Data Scientist,New York NY,2022,86594.5728
+4,Consultant,New York NY,2022,75770.2512
+4,Lawyer,New York NY,2022,194837.7888
+4,Truck Driver,New York NY,2022,54121.608
+4,Cashier,New York NY,2022,54121.608
+4,Software Engineer,Seattle WA,2018,80000
+4,Salesperson,Seattle WA,2018,60000
+4,Data Scientist,Seattle WA,2018,80000
+4,Consultant,Seattle WA,2018,70000
+4,Lawyer,Seattle WA,2018,180000
+4,Truck Driver,Seattle WA,2018,50000
+4,Cashier,Seattle WA,2018,50000
+4,Software Engineer,Seattle WA,2019,81600
+4,Salesperson,Seattle WA,2019,61200
+4,Data Scientist,Seattle WA,2019,81600
+4,Consultant,Seattle WA,2019,71400
+4,Lawyer,Seattle WA,2019,183600
+4,Truck Driver,Seattle WA,2019,51000
+4,Cashier,Seattle WA,2019,51000
+4,Software Engineer,Seattle WA,2020,83232
+4,Salesperson,Seattle WA,2020,62424
+4,Data Scientist,Seattle WA,2020,83232
+4,Consultant,Seattle WA,2020,72828
+4,Lawyer,Seattle WA,2020,187272
+4,Truck Driver,Seattle WA,2020,52020
+4,Cashier,Seattle WA,2020,52020
+4,Software Engineer,Seattle WA,2021,84896.64
+4,Salesperson,Seattle WA,2021,63672.48
+4,Data Scientist,Seattle WA,2021,84896.64
+4,Consultant,Seattle WA,2021,74284.56
+4,Lawyer,Seattle WA,2021,191017.44
+4,Truck Driver,Seattle WA,2021,53060.4
+4,Cashier,Seattle WA,2021,53060.4
+4,Software Engineer,Seattle WA,2022,86594.5728
+4,Salesperson,Seattle WA,2022,64945.9296
+4,Data Scientist,Seattle WA,2022,86594.5728
+4,Consultant,Seattle WA,2022,75770.2512
+4,Lawyer,Seattle WA,2022,194837.7888
+4,Truck Driver,Seattle WA,2022,54121.608
+4,Cashier,Seattle WA,2022,54121.608
+4,Software Engineer,San Francisco CA,2018,120000
+4,Salesperson,San Francisco CA,2018,80000
+4,Data Scientist,San Francisco CA,2018,110000
+4,Consultant,San Francisco CA,2018,80000
+4,Lawyer,San Francisco CA,2018,180000
+4,Truck Driver,San Francisco CA,2018,80000
+4,Cashier,San Francisco CA,2018,60000
+4,Software Engineer,San Francisco CA,2019,122400
+4,Salesperson,San Francisco CA,2019,81600
+4,Data Scientist,San Francisco CA,2019,112200
+4,Consultant,San Francisco CA,2019,81600
+4,Lawyer,San Francisco CA,2019,183600
+4,Truck Driver,San Francisco CA,2019,81600
+4,Cashier,San Francisco CA,2019,61200
+4,Software Engineer,San Francisco CA,2020,124848
+4,Salesperson,San Francisco CA,2020,83232
+4,Data Scientist,San Francisco CA,2020,114444
+4,Consultant,San Francisco CA,2020,83232
+4,Lawyer,San Francisco CA,2020,187272
+4,Truck Driver,San Francisco CA,2020,83232
+4,Cashier,San Francisco CA,2020,62424
+4,Software Engineer,San Francisco CA,2021,127344.96
+4,Salesperson,San Francisco CA,2021,84896.64
+4,Data Scientist,San Francisco CA,2021,116732.88
+4,Consultant,San Francisco CA,2021,84896.64
+4,Lawyer,San Francisco CA,2021,191017.44
+4,Truck Driver,San Francisco CA,2021,84896.64
+4,Cashier,San Francisco CA,2021,63672.48
+4,Software Engineer,San Francisco CA,2022,129891.8592
+4,Salesperson,San Francisco CA,2022,86594.5728
+4,Data Scientist,San Francisco CA,2022,119067.5376
+4,Consultant,San Francisco CA,2022,86594.5728
+4,Lawyer,San Francisco CA,2022,194837.7888
+4,Truck Driver,San Francisco CA,2022,86594.5728
+4,Cashier,San Francisco CA,2022,64945.9296
